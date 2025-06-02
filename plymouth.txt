@@ -1,0 +1,7 @@
+sudo pacman -S plymouth
+yay -S plymouth-theme-optimus-git
+sudo nano /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo nano /etc/mkinitcpio.conf
+sudo mkinitcpio -P
+sudo plymouth-set-default-theme -R optimus
