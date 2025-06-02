@@ -1,0 +1,1962 @@
+27/5/2025, 5:52:25 p. m. 593 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.bat for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 593 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.clojure for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 593 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.coffeescript for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.cpp for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dart for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.diff for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.docker for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.fsharp for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github-authentication for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.go for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.groovy for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.handlebars for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.hlsl for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ini for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.java for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.javascript for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.julia for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.latex for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.less for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.log for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.lua for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.make for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.media-preview for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.microsoft-authentication for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 594 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-companion for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.builtin-notebook-renderers for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.objective-c for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.perl for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.powershell for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.pug for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.python for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.r for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.razor for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.restructuredtext for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ruby for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.rust for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.scss for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shaderlab for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shellscript for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.simple-browser for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.sql for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.swift for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.terminal-suggest for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-abyss for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-defaults for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-kimbie-dark for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai-dimmed for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-quietlight for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-red for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vscode-theme-seti for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-dark for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-light for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-tomorrow-night-blue for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vb for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.xml for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.yaml for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc-icons for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension christian-kohler.path-intellisense for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension dlasagno.wal-theme for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension GitHub.copilot for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension GitHub.copilot-chat for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscodeintellicode-csharp for .NET installation requests
+
+27/5/2025, 5:52:25 p. m. 595 DotnetVSCodeExtensionFound
+true
+Checking extension patcx.vscode-nuget-gallery for .NET installation requests
+
+27/5/2025, 5:52:26 p. m. 831 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.1","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":true}
+
+27/5/2025, 5:52:26 p. m. 831 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+27/5/2025, 5:52:26 p. m. 836 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:26.836Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:26 p. m. 841 CommandExecutionEvent
+Executing command "dotnet" --list-runtimes with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:26 p. m. 859 CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes exited:
+0.
+
+27/5/2025, 5:52:26 p. m. 859 CommandExecutionStdOut
+The command "dotnet" --list-runtimes encountered stdout:
+Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+27/5/2025, 5:52:26 p. m. 859 CommandExecutionStdError
+The command "dotnet" --list-runtimes encountered stderr:
+
+
+27/5/2025, 5:52:26 p. m. 859 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:26.859Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:26 p. m. 861 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:26.861Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:26 p. m. 861 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --info with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 360 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --info exited:
+0.
+
+27/5/2025, 5:52:27 p. m. 360 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --info encountered stdout:
+.NET SDK:
+ Version:           8.0.410
+ Commit:            0c2bff86e8
+ Workload version:  8.0.400-manifests.def3829e
+ MSBuild version:   17.11.31+933b72e36
+
+Runtime Environment:
+ OS Name:     cachyos
+ OS Version:  
+ OS Platform: Linux
+ RID:         linux-x64
+ Base Path:   /usr/share/dotnet/sdk/8.0.410/
+
+.NET workloads installed:
+Configured to use loose manifests when installing new manifests.
+There are no installed workloads to display.
+
+Host:
+  Version:      9.0.4
+  Architecture: x64
+  Commit:       b7deac6d42
+
+.NET SDKs installed:
+  8.0.410 [/usr/share/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
+
+27/5/2025, 5:52:27 p. m. 360 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --info encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 361 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.361Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:27 p. m. 361 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.361Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:27 p. m. 361 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 375 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes exited:
+0.
+
+27/5/2025, 5:52:27 p. m. 375 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes encountered stdout:
+Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+27/5/2025, 5:52:27 p. m. 376 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 376 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.376Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:27 p. m. 376 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.1, required mode: aspnetcore
+
+27/5/2025, 5:52:27 p. m. 377 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+27/5/2025, 5:52:27 p. m. 377 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.377Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:27 p. m. 377 CommandExecutionEvent
+Executing command echo $PATH with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 396 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.395Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:27 p. m. 396 CommandExecutionEvent
+Executing command echo $PATH with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 407 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.407Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:27 p. m. 408 CommandExecutionEvent
+Executing command which which with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 417 CommandExecutionStatusEvent
+The command echo $PATH exited:
+ENOENT.
+
+27/5/2025, 5:52:27 p. m. 417 CommandExecutionStdOut
+The command echo $PATH encountered stdout:
+
+
+27/5/2025, 5:52:27 p. m. 417 CommandExecutionStdError
+The command echo $PATH encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 417 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.417Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+30000
+true
+
+27/5/2025, 5:52:27 p. m. 417 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+27/5/2025, 5:52:27 p. m. 421 CommandExecutionStatusEvent
+The command echo $PATH exited:
+0.
+
+27/5/2025, 5:52:27 p. m. 421 CommandExecutionStdOut
+The command echo $PATH encountered stdout:
+/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:27 p. m. 421 CommandExecutionStdError
+The command echo $PATH encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 421 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.421Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:27 p. m. 422 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:27 p. m. 425 CommandExecutionStatusEvent
+The command which which exited:
+0.
+
+27/5/2025, 5:52:27 p. m. 425 CommandExecutionStdOut
+The command which which encountered stdout:
+/usr/bin/which
+
+
+27/5/2025, 5:52:27 p. m. 425 CommandExecutionStdError
+The command which which encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 425 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.425Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+30000
+true
+
+27/5/2025, 5:52:27 p. m. 426 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+27/5/2025, 5:52:27 p. m. 426 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.426Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:27 p. m. 426 CommandExecutionEvent
+Executing command which dotnet with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 444 CommandExecutionStatusEvent
+The command which dotnet exited:
+0.
+
+27/5/2025, 5:52:27 p. m. 444 CommandExecutionStdOut
+The command which dotnet encountered stdout:
+/usr/bin/dotnet
+
+
+27/5/2025, 5:52:27 p. m. 444 CommandExecutionStdError
+The command which dotnet encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 444 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.444Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:27 p. m. 444 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+27/5/2025, 5:52:27 p. m. 445 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.445Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:27 p. m. 445 CommandExecutionEvent
+Executing command "/usr/bin/dotnet" --list-runtimes with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:27 p. m. 525 CommandExecutionStatusEvent
+The command "/usr/bin/dotnet" --list-runtimes exited:
+0.
+
+27/5/2025, 5:52:27 p. m. 525 CommandExecutionStdOut
+The command "/usr/bin/dotnet" --list-runtimes encountered stdout:
+Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+27/5/2025, 5:52:27 p. m. 525 CommandExecutionStdError
+The command "/usr/bin/dotnet" --list-runtimes encountered stderr:
+
+
+27/5/2025, 5:52:27 p. m. 525 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:27.525Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:27 p. m. 526 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.526Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:27 p. m. 530 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.530Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:27 p. m. 530 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.1, required mode: aspnetcore
+
+27/5/2025, 5:52:27 p. m. 530 DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+27/5/2025, 5:52:27 p. m. 531 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+27/5/2025, 5:52:27 p. m. 531 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.531Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:27 p. m. 532 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.531Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+27/5/2025, 5:52:27 p. m. 532 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.532Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:27 p. m. 532 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:27 p. m. 532 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+27/5/2025, 5:52:27 p. m. 532 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+27/5/2025, 5:52:27 p. m. 534 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.533Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:27 p. m. 534 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+27/5/2025, 5:52:27 p. m. 534 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:27.534Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:27 p. m. 539 DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+27/5/2025, 5:52:27 p. m. 540 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+27/5/2025, 5:52:27 p. m. 540 DotnetFindPathHostFxrResolutionLookup
+Looking up .NET without checking the PATH.
+
+27/5/2025, 5:52:27 p. m. 541 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location_x64
+
+27/5/2025, 5:52:27 p. m. 544 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location
+
+27/5/2025, 5:52:27 p. m. 544 DotnetFindPathNoHostOnFileSystem
+The host could not be found in the file system.
+
+27/5/2025, 5:52:27 p. m. 544 DotnetFindPathNoPathMetCondition
+Could not find a single host path that met the conditions.
+existingPath : undefined
+onPath : ["/usr/share/dotnet/dotnet"]
+onRealPath : undefined
+onRoot : undefined
+onHostfxrRecord : []
+
+Requirement:
+{"acquireContext":{"version":"9.0.1","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":true}
+
+27/5/2025, 5:52:27 p. m. 546 DotnetAcquisitionStatusRequested
+9.0
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+27/5/2025, 5:52:27 p. m. 549 WebRequestInitiated
+Making Web Request For https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+27/5/2025, 5:52:27 p. m. 550 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+27/5/2025, 5:52:29 p. m. 721 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.2","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+27/5/2025, 5:52:29 p. m. 721 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+27/5/2025, 5:52:29 p. m. 722 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.722Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 722 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.722Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 722 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.722Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 723 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+27/5/2025, 5:52:29 p. m. 723 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+27/5/2025, 5:52:29 p. m. 724 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.2","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+27/5/2025, 5:52:29 p. m. 724 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+27/5/2025, 5:52:29 p. m. 724 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.724Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+false
+
+27/5/2025, 5:52:29 p. m. 725 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.725Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 725 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.725Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 725 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: aspnetcore
+
+27/5/2025, 5:52:29 p. m. 725 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+27/5/2025, 5:52:29 p. m. 725 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.725Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 726 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.726Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+27/5/2025, 5:52:29 p. m. 726 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.726Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 726 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:29 p. m. 726 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+27/5/2025, 5:52:29 p. m. 726 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+27/5/2025, 5:52:29 p. m. 726 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.726Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 726 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+27/5/2025, 5:52:29 p. m. 726 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.726Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 727 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.727Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 727 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.727Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 727 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.2, required mode: aspnetcore
+
+27/5/2025, 5:52:29 p. m. 727 DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+27/5/2025, 5:52:29 p. m. 727 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+27/5/2025, 5:52:29 p. m. 727 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.727Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 727 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.727Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+27/5/2025, 5:52:29 p. m. 727 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.727Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 727 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:29 p. m. 727 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+27/5/2025, 5:52:29 p. m. 727 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+27/5/2025, 5:52:29 p. m. 728 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.728Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 728 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+27/5/2025, 5:52:29 p. m. 728 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.728Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 818 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"9.0.1","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":true}
+
+27/5/2025, 5:52:29 p. m. 818 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+27/5/2025, 5:52:29 p. m. 819 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.819Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 820 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.820Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 820 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.820Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 821 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.1, required mode: aspnetcore
+
+27/5/2025, 5:52:29 p. m. 821 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+27/5/2025, 5:52:29 p. m. 821 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.821Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 822 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.821Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+27/5/2025, 5:52:29 p. m. 822 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.822Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 822 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:29 p. m. 822 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+27/5/2025, 5:52:29 p. m. 822 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+27/5/2025, 5:52:29 p. m. 822 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.822Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 822 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+27/5/2025, 5:52:29 p. m. 823 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.823Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 823 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.823Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 823 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.823Z
+"/usr/share/dotnet/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 823 DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 9.0.1, required mode: aspnetcore
+
+27/5/2025, 5:52:29 p. m. 823 DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+27/5/2025, 5:52:29 p. m. 823 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+27/5/2025, 5:52:29 p. m. 823 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.823Z
+echo $PATH{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"/home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 824 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.824Z
+echo $PATH{"shell":"bin/bash","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+27/5/2025, 5:52:29 p. m. 824 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.824Z
+which which{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 824 DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+27/5/2025, 5:52:29 p. m. 824 DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+27/5/2025, 5:52:29 p. m. 824 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+27/5/2025, 5:52:29 p. m. 824 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.824Z
+which dotnet{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","encoding":"utf8"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:29 p. m. 824 DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+27/5/2025, 5:52:29 p. m. 824 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:29.824Z
+"/usr/bin/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:30 p. m. 114 WebRequestTime
+Timer for request:
+2559.90
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+27/5/2025, 5:52:30 p. m. 115 DotnetVersionResolutionCompleted
+9.0
+9.0.5
+
+27/5/2025, 5:52:30 p. m. 116 GenericDotnetLockEvent
+Action: installedLk-fbd7ee3c-b26e-4cd8-aa11-09b9aa2b68ac Lock acquired: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.116Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 117 FoundTrackingVersions
+true
+installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 117 GenericDotnetLockEvent
+Action: installedLk-fbd7ee3c-b26e-4cd8-aa11-09b9aa2b68ac Lock freed: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.117Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 122 DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+27/5/2025, 5:52:30 p. m. 122 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+27/5/2025, 5:52:30 p. m. 123 DotnetFindPathHostFxrResolutionLookup
+Looking up .NET without checking the PATH.
+
+27/5/2025, 5:52:30 p. m. 124 DotnetInstallationValidated
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+
+27/5/2025, 5:52:30 p. m. 125 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.125Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:30 p. m. 126 CommandExecutionEvent
+Executing command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:30 p. m. 148 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location_x64
+
+27/5/2025, 5:52:30 p. m. 149 CommandExecutionStatusEvent
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info exited:
+0.
+
+27/5/2025, 5:52:30 p. m. 149 CommandExecutionStdOut
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info encountered stdout:
+
+Host:
+  Version:      9.0.5
+  Architecture: x64
+  Commit:       e36e4d1a8f
+  RID:          linux-x64
+
+.NET SDKs installed:
+  No SDKs were found.
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
+
+27/5/2025, 5:52:30 p. m. 149 CommandExecutionStdError
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info encountered stderr:
+
+
+27/5/2025, 5:52:30 p. m. 150 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:30.150Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":"\nHost:\n  Version:      9.0.5\n  Architecture: x64\n  Commit:       e36e4d1a8f\n  RID:          linux-x64\n\n.NET SDKs installed:\n  No SDKs were found.\n\n.NET runtimes installed:\n  Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\n  Microsoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:30 p. m. 150 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.150Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:30 p. m. 150 CommandExecutionEvent
+Executing command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:30 p. m. 177 DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+27/5/2025, 5:52:30 p. m. 177 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+27/5/2025, 5:52:30 p. m. 177 DotnetFindPathHostFxrResolutionLookup
+Looking up .NET without checking the PATH.
+
+27/5/2025, 5:52:30 p. m. 177 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location
+
+27/5/2025, 5:52:30 p. m. 177 DotnetFindPathNoHostOnFileSystem
+The host could not be found in the file system.
+
+27/5/2025, 5:52:30 p. m. 178 DotnetFindPathNoPathMetCondition
+Could not find a single host path that met the conditions.
+existingPath : undefined
+onPath : ["/usr/share/dotnet/dotnet"]
+onRealPath : undefined
+onRoot : undefined
+onHostfxrRecord : []
+
+Requirement:
+{"acquireContext":{"version":"9.0.2","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+27/5/2025, 5:52:30 p. m. 178 DotnetAcquisitionStatusRequested
+9.0
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+
+27/5/2025, 5:52:30 p. m. 178 WebRequestInitiated
+Making Web Request For https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+27/5/2025, 5:52:30 p. m. 179 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+27/5/2025, 5:52:30 p. m. 179 WebRequestCachedTime
+Cached Timer for request:
+0.21
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+27/5/2025, 5:52:30 p. m. 180 DotnetVersionResolutionCompleted
+9.0
+9.0.5
+
+27/5/2025, 5:52:30 p. m. 180 GenericDotnetLockEvent
+Action: installedLk-ab53929a-adde-4689-beb1-3cd999558ecc Lock acquired: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.180Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 180 FoundTrackingVersions
+true
+installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 180 GenericDotnetLockEvent
+Action: installedLk-ab53929a-adde-4689-beb1-3cd999558ecc Lock freed: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.180Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 180 CommandExecutionStatusEvent
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes exited:
+0.
+
+27/5/2025, 5:52:30 p. m. 180 CommandExecutionStdOut
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes encountered stdout:
+Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+
+27/5/2025, 5:52:30 p. m. 180 CommandExecutionStdError
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes encountered stderr:
+
+
+27/5/2025, 5:52:30 p. m. 180 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:30.180Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:30 p. m. 181 DotnetConditionsValidated
+true
+/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet satisfies the conditions.
+
+27/5/2025, 5:52:30 p. m. 181 DotnetAcquisitionAlreadyInstalled
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+27/5/2025, 5:52:30 p. m. 181 GenericDotnetLockEvent
+Action: installedLk-4e91b7da-e486-476f-80f0-7b85fd241f3f Lock acquired: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.181Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 181 AddTrackingVersions
+true
+Adding {"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id 9.0.5~x64~aspnetcore from the state.
+
+27/5/2025, 5:52:30 p. m. 182 DotnetInstallationValidated
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+
+27/5/2025, 5:52:30 p. m. 182 FoundTrackingVersions
+true
+installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 182 AddTrackingVersions
+true
+Updated installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 183 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location_x64
+
+27/5/2025, 5:52:30 p. m. 183 DotnetInstallationValidated
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+
+27/5/2025, 5:52:30 p. m. 183 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.183Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:30 p. m. 183 CommandExecutionEvent
+Executing command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: undefined\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:30 p. m. 196 GenericDotnetLockEvent
+Action: installedLk-4e91b7da-e486-476f-80f0-7b85fd241f3f Lock freed: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.196Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 197 DotnetAcquisitionStatusResolved
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+9.0.5
+
+27/5/2025, 5:52:30 p. m. 197 DotnetCommandSucceeded
+acquireStatus
+
+27/5/2025, 5:52:30 p. m. 213 DotnetCommandSucceeded
+ensureDependencies
+
+27/5/2025, 5:52:30 p. m. 218 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location
+
+27/5/2025, 5:52:30 p. m. 218 DotnetFindPathNoHostOnFileSystem
+The host could not be found in the file system.
+
+27/5/2025, 5:52:30 p. m. 219 DotnetFindPathNoPathMetCondition
+Could not find a single host path that met the conditions.
+existingPath : undefined
+onPath : ["/usr/share/dotnet/dotnet"]
+onRealPath : undefined
+onRoot : undefined
+onHostfxrRecord : []
+
+Requirement:
+{"acquireContext":{"version":"9.0.1","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":true}
+
+27/5/2025, 5:52:30 p. m. 220 DotnetAcquisitionStatusRequested
+9.0
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+27/5/2025, 5:52:30 p. m. 221 WebRequestInitiated
+Making Web Request For https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+27/5/2025, 5:52:30 p. m. 221 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+27/5/2025, 5:52:30 p. m. 222 WebRequestCachedTime
+Cached Timer for request:
+0.16
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+27/5/2025, 5:52:30 p. m. 222 DotnetVersionResolutionCompleted
+9.0
+9.0.5
+
+27/5/2025, 5:52:30 p. m. 222 GenericDotnetLockEvent
+Action: installedLk-dba2f48f-633d-4d09-bdc7-ff13c9ed3ccc Lock acquired: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.222Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 223 FoundTrackingVersions
+true
+installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 223 GenericDotnetLockEvent
+Action: installedLk-dba2f48f-633d-4d09-bdc7-ff13c9ed3ccc Lock freed: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.223Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 226 CommandExecutionStatusEvent
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info exited:
+0.
+
+27/5/2025, 5:52:30 p. m. 226 CommandExecutionStdOut
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info encountered stdout:
+
+Host:
+  Version:      9.0.5
+  Architecture: x64
+  Commit:       e36e4d1a8f
+  RID:          linux-x64
+
+.NET SDKs installed:
+  No SDKs were found.
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
+
+27/5/2025, 5:52:30 p. m. 226 CommandExecutionStdError
+The command "/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info encountered stderr:
+
+
+27/5/2025, 5:52:30 p. m. 226 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:30.226Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":"\nHost:\n  Version:      9.0.5\n  Architecture: x64\n  Commit:       e36e4d1a8f\n  RID:          linux-x64\n\n.NET SDKs installed:\n  No SDKs were found.\n\n.NET runtimes installed:\n  Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\n  Microsoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:30 p. m. 227 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.227Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:30 p. m. 227 DotnetConditionsValidated
+true
+/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet satisfies the conditions.
+
+27/5/2025, 5:52:30 p. m. 227 DotnetAcquisitionAlreadyInstalled
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+
+27/5/2025, 5:52:30 p. m. 227 GenericDotnetLockEvent
+Action: installedLk-e8c45a44-ec5c-4ede-bc0c-878a8ea7b15f Lock acquired: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.227Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 227 AddTrackingVersions
+true
+Adding {"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id 9.0.5~x64~aspnetcore from the state.
+
+27/5/2025, 5:52:30 p. m. 227 DotnetInstallationValidated
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+
+27/5/2025, 5:52:30 p. m. 227 FoundTrackingVersions
+true
+installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 227 AddTrackingVersions
+true
+Updated installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:30 p. m. 228 DotnetInstallationValidated
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+
+27/5/2025, 5:52:30 p. m. 228 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.228Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":"\nHost:\n  Version:      9.0.5\n  Architecture: x64\n  Commit:       e36e4d1a8f\n  RID:          linux-x64\n\n.NET SDKs installed:\n  No SDKs were found.\n\n.NET runtimes installed:\n  Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\n  Microsoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:30 p. m. 229 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.229Z
+"/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.AspNetCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 9.0.5 [/home/rugery/.dotfiles/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:30 p. m. 229 DotnetConditionsValidated
+true
+/home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet satisfies the conditions.
+
+27/5/2025, 5:52:30 p. m. 229 DotnetAcquisitionAlreadyInstalled
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+27/5/2025, 5:52:30 p. m. 231 GenericDotnetLockEvent
+Action: installedLk-e8c45a44-ec5c-4ede-bc0c-878a8ea7b15f Lock freed: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:30.231Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:30 p. m. 231 DotnetAcquisitionStatusResolved
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+9.0.5
+
+27/5/2025, 5:52:30 p. m. 231 DotnetCommandSucceeded
+acquireStatus
+
+27/5/2025, 5:52:30 p. m. 247 DotnetCommandSucceeded
+ensureDependencies
+
+27/5/2025, 5:52:30 p. m. 248 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"6.0","requestingExtensionId":"ms-dotnettools.csdevkit","installType":"global","architecture":"x64","mode":"sdk"},"versionSpecRequirement":"greater_than_or_equal"}
+
+27/5/2025, 5:52:30 p. m. 248 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+27/5/2025, 5:52:30 p. m. 249 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.248Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+27/5/2025, 5:52:30 p. m. 249 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:30.249Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:30 p. m. 249 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --info with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:31 p. m. 48 GenericDotnetLockEvent
+Action: installedLk-b1b9c17b-11c1-48a0-b84a-dd29b586dc2d Unable to connect to existing lock: {"errno":-104,"code":"ECONNRESET","syscall":"connect","address":"/run/user/1000/vscd-installedLk.sock"}.
+2025-05-27T22:52:31.048Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:31 p. m. 48 GenericDotnetLockEvent
+Action: installedLk-b1b9c17b-11c1-48a0-b84a-dd29b586dc2d Unable to acquire lock: {"errno":-104,"code":"ECONNRESET","syscall":"connect","address":"/run/user/1000/vscd-installedLk.sock"}.
+2025-05-27T22:52:31.048Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:31 p. m. 131 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --info exited:
+0.
+
+27/5/2025, 5:52:31 p. m. 131 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --info encountered stdout:
+.NET SDK:
+ Version:           8.0.410
+ Commit:            0c2bff86e8
+ Workload version:  8.0.400-manifests.def3829e
+ MSBuild version:   17.11.31+933b72e36
+
+Runtime Environment:
+ OS Name:     cachyos
+ OS Version:  
+ OS Platform: Linux
+ RID:         linux-x64
+ Base Path:   /usr/share/dotnet/sdk/8.0.410/
+
+.NET workloads installed:
+Configured to use loose manifests when installing new manifests.
+There are no installed workloads to display.
+
+Host:
+  Version:      9.0.4
+  Architecture: x64
+  Commit:       b7deac6d42
+
+.NET SDKs installed:
+  8.0.410 [/usr/share/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
+
+27/5/2025, 5:52:31 p. m. 131 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --info encountered stderr:
+
+
+27/5/2025, 5:52:31 p. m. 131 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:31.131Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:31 p. m. 132 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:31.132Z
+"/usr/share/dotnet/dotnet" --list-sdks{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:31 p. m. 132 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-sdks with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:31 p. m. 149 GenericDotnetLockEvent
+Action: installedLk-b1b9c17b-11c1-48a0-b84a-dd29b586dc2d Lock acquired: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:31.149Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:31 p. m. 149 AddTrackingVersions
+true
+Adding {"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id 9.0.5~x64~aspnetcore from the state.
+
+27/5/2025, 5:52:31 p. m. 149 DotnetInstallationValidated
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+
+27/5/2025, 5:52:31 p. m. 149 FoundTrackingVersions
+true
+installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:31 p. m. 150 AddTrackingVersions
+true
+Updated installed :
+{"installId":"9.0.5~x64~aspnetcore","version":"9.0.5","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, ms-dotnettools.csdevkit
+
+
+27/5/2025, 5:52:31 p. m. 161 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-sdks exited:
+0.
+
+27/5/2025, 5:52:31 p. m. 161 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-sdks encountered stdout:
+8.0.410 [/usr/share/dotnet/sdk]
+
+
+27/5/2025, 5:52:31 p. m. 161 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-sdks encountered stderr:
+
+
+27/5/2025, 5:52:31 p. m. 161 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:31.161Z
+"/usr/share/dotnet/dotnet" --list-sdks{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"8.0.410 [/usr/share/dotnet/sdk]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:31 p. m. 161 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 6.0.
+
+27/5/2025, 5:52:31 p. m. 162 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 6.0.
+
+27/5/2025, 5:52:31 p. m. 162 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+27/5/2025, 5:52:31 p. m. 162 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+27/5/2025, 5:52:31 p. m. 178 GenericDotnetLockEvent
+Action: installedLk-b1b9c17b-11c1-48a0-b84a-dd29b586dc2d Lock freed: /run/user/1000/vscd-installedLk.sock
+2025-05-27T22:52:31.178Z
+installedLk
+installedLk
+true
+
+27/5/2025, 5:52:31 p. m. 178 DotnetAcquisitionStatusResolved
+9.0.5~x64~aspnetcore
+9.0.5~x64~aspnetcore
+9.0.5
+x64
+false
+aspnetcore
+9.0.5
+
+27/5/2025, 5:52:31 p. m. 178 DotnetCommandSucceeded
+acquireStatus
+
+27/5/2025, 5:52:31 p. m. 197 DotnetCommandSucceeded
+ensureDependencies
+
+27/5/2025, 5:52:40 p. m. 459 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"0.0","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"sdk","installType":"global"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":false}
+
+27/5/2025, 5:52:40 p. m. 459 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+27/5/2025, 5:52:40 p. m. 460 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:40.460Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:40 p. m. 460 CommandExecutionEvent
+Executing command "dotnet" --list-runtimes with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:40 p. m. 543 CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes exited:
+0.
+
+27/5/2025, 5:52:40 p. m. 543 CommandExecutionStdOut
+The command "dotnet" --list-runtimes encountered stdout:
+Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+27/5/2025, 5:52:40 p. m. 543 CommandExecutionStdError
+The command "dotnet" --list-runtimes encountered stderr:
+
+
+27/5/2025, 5:52:40 p. m. 543 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:40.543Z
+"dotnet" --list-runtimes{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\nMicrosoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:40 p. m. 548 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:40.548Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+undefined
+true
+
+27/5/2025, 5:52:40 p. m. 548 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --info with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:41 p. m. 580 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --info exited:
+0.
+
+27/5/2025, 5:52:41 p. m. 580 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --info encountered stdout:
+.NET SDK:
+ Version:           8.0.410
+ Commit:            0c2bff86e8
+ Workload version:  8.0.400-manifests.def3829e
+ MSBuild version:   17.11.31+933b72e36
+
+Runtime Environment:
+ OS Name:     cachyos
+ OS Version:  
+ OS Platform: Linux
+ RID:         linux-x64
+ Base Path:   /usr/share/dotnet/sdk/8.0.410/
+
+.NET workloads installed:
+Configured to use loose manifests when installing new manifests.
+There are no installed workloads to display.
+
+Host:
+  Version:      9.0.4
+  Architecture: x64
+  Commit:       b7deac6d42
+
+.NET SDKs installed:
+  8.0.410 [/usr/share/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
+
+27/5/2025, 5:52:41 p. m. 580 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --info encountered stderr:
+
+
+27/5/2025, 5:52:41 p. m. 581 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:41.581Z
+"/usr/share/dotnet/dotnet" --info{"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}
+{"stdout":".NET SDK:\n Version:           8.0.410\n Commit:            0c2bff86e8\n Workload version:  8.0.400-manifests.def3829e\n MSBuild version:   17.11.31+933b72e36\n\nRuntime Environment:\n OS Name:     cachyos\n OS Version:  \n OS Platform: Linux\n RID:         linux-x64\n Base Path:   /usr/share/dotnet/sdk/8.0.410/\n\n.NET workloads installed:\nConfigured to use loose manifests when installing new manifests.\nThere are no installed workloads to display.\n\nHost:\n  Version:      9.0.4\n  Architecture: x64\n  Commit:       b7deac6d42\n\n.NET SDKs installed:\n  8.0.410 [/usr/share/dotnet/sdk]\n\n.NET runtimes installed:\n  Microsoft.NETCore.App 8.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n  Microsoft.NETCore.App 9.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n\nOther architectures found:\n  None\n\nEnvironment variables:\n  Not set\n\nglobal.json file:\n  Not found\n\nLearn more:\n  https://aka.ms/dotnet/info\n\nDownload .NET:\n  https://aka.ms/dotnet/download\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:41 p. m. 582 CacheGetEvent
+Checking the cache at 2025-05-27T22:52:41.581Z
+"/usr/share/dotnet/dotnet" --list-sdks{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+undefined
+true
+
+27/5/2025, 5:52:41 p. m. 582 CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-sdks with options {"env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8"}.
+
+27/5/2025, 5:52:41 p. m. 658 CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-sdks exited:
+0.
+
+27/5/2025, 5:52:41 p. m. 658 CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-sdks encountered stdout:
+8.0.410 [/usr/share/dotnet/sdk]
+
+
+27/5/2025, 5:52:41 p. m. 658 CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-sdks encountered stderr:
+
+
+27/5/2025, 5:52:41 p. m. 658 CachePutEvent
+Adding to the cache at 2025-05-27T22:52:41.658Z
+"/usr/share/dotnet/dotnet" --list-sdks{"cwd":"/home/rugery/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.3.5/dist","shell":true,"encoding":"utf8","env":"HOME: /home/rugery\nLANG: es_CO.UTF-8\nPATH: /home/rugery/.local/share/nvm/v22.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nPWD: /home/rugery\nSHELL: /bin/fish\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/rugery/.config/Code/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 153500\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n"}
+{"stdout":"8.0.410 [/usr/share/dotnet/sdk]\n","stderr":"","status":"0"}
+9000
+true
+
+27/5/2025, 5:52:41 p. m. 658 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 0.0.
+
+27/5/2025, 5:52:41 p. m. 659 FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 0.0.
+
+27/5/2025, 5:52:41 p. m. 659 DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+27/5/2025, 5:52:41 p. m. 659 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.

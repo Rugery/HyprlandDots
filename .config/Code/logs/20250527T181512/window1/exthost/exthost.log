@@ -1,0 +1,90 @@
+2025-05-27 18:15:15.028 [info] Extension host with pid 176086 started
+2025-05-27 18:15:15.028 [info] Skipping acquiring lock for /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e.
+2025-05-27 18:15:15.746 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-27 18:15:15.808 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-27 18:15:15.846 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onLanguage:csharp', root cause: ms-dotnettools.csdevkit
+2025-05-27 18:15:16.203 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: false, activationEvent: 'onLanguage:csharp', root cause: ms-dotnettools.csdevkit
+2025-05-27 18:15:16.590 [info] Extension host with pid 176177 started
+2025-05-27 18:15:16.590 [info] Skipping acquiring lock for /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e.
+2025-05-27 18:15:16.590 [info] Eager extensions activated
+2025-05-27 18:15:16.611 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:15:17.116 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-27 18:15:17.122 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-05-27 18:15:17.153 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-05-27 18:15:17.339 [info] ExtensionService#_doActivateExtension ms-dotnettools.csdevkit, startup: false, activationEvent: 'onLanguage:csharp'
+2025-05-27 18:15:17.747 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-27 18:15:17.836 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-27 18:15:18.035 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 18:15:18.051 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 18:15:18.147 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 18:15:19.370 [info] Eager extensions activated
+2025-05-27 18:15:19.428 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscodeintellicode-csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2025-05-27 18:15:19.596 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:15:19.599 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:15:19.624 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:15:19.766 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:15:20.511 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:15:20.961 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-05-27 18:15:25.850 [warning] DiagnosticCollection with name 'HotReloadDiagnostics' does already exist.
+2025-05-27 18:15:25.854 [warning] DiagnosticCollection with name 'XamlDiagnostics' does already exist.
+2025-05-27 18:19:17.354 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:19:18.561 [error] Error: ENOENT: no such file or directory, open '/home/rugery/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-05-27 18:20:38.413 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 18:20:38.426 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2025-05-27 18:20:38.431 [warning] Canceled
+2025-05-27 18:20:38.437 [info] Extension host with pid 176177 exiting with code 0
+2025-05-27 18:20:38.439 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 18:20:38.524 [error] An error occurred when disposing the subscriptions for extension 'ms-dotnettools.csdevkit':
+2025-05-27 18:20:38.536 [error] Error: Connection is disposed.
+    at ue (/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/dist/extension.js:2:911755)
+    at Object.sendNotification (/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/dist/extension.js:2:912598)
+    at Proxy.dispose (/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/dist/extension.js:2:246729)
+    at Er (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:15046
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+    at Array.map (<anonymous>)
+    at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+    at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+    at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+    at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-27 18:20:38.623 [error] Error: ENOENT: no such file or directory, open '/home/rugery/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-05-27 18:20:38.628 [info] Extension host with pid 176086 exiting with code 0
+2025-05-27 18:20:40.406 [info] Extension host with pid 180535 started
+2025-05-27 18:20:40.406 [info] Skipping acquiring lock for /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e.
+2025-05-27 18:20:40.444 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-27 18:20:40.506 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-27 18:20:40.546 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onLanguage:csharp', root cause: ms-dotnettools.csdevkit
+2025-05-27 18:20:40.555 [info] Extension host with pid 180536 started
+2025-05-27 18:20:40.555 [info] Skipping acquiring lock for /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e.
+2025-05-27 18:20:40.556 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onCommand:type'
+2025-05-27 18:20:40.708 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 18:20:40.730 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 18:20:40.791 [info] Eager extensions activated
+2025-05-27 18:20:40.831 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 18:20:40.938 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-05-27 18:20:41.225 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: false, activationEvent: 'onLanguage:csharp', root cause: ms-dotnettools.csdevkit
+2025-05-27 18:20:41.776 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-27 18:20:41.780 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-05-27 18:20:41.791 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-05-27 18:20:41.883 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-27 18:20:41.946 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-27 18:20:42.171 [info] ExtensionService#_doActivateExtension ms-dotnettools.csdevkit, startup: false, activationEvent: 'onLanguage:csharp'
+2025-05-27 18:20:42.922 [info] Eager extensions activated
+2025-05-27 18:20:42.952 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscodeintellicode-csharp, startup: false, activationEvent: 'onLanguage:csharp'
+2025-05-27 18:20:43.121 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:20:43.123 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:20:43.148 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:20:43.277 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:20:43.856 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 18:20:48.599 [warning] DiagnosticCollection with name 'HotReloadDiagnostics' does already exist.
+2025-05-27 18:20:48.606 [warning] DiagnosticCollection with name 'XamlDiagnostics' does already exist.
+2025-05-27 18:20:54.607 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 18:20:54.637 [info] Extension host with pid 180536 exiting with code 0
+2025-05-27 18:20:56.147 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 18:20:56.317 [info] Extension host with pid 180535 exiting with code 0

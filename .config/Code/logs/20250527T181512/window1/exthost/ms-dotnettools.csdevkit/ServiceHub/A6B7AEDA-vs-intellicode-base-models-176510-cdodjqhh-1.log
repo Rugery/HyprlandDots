@@ -1,0 +1,126 @@
+﻿05/27/2025 18:19:28 hora estándar de Colombia : Information : Local timezone is (UTC-05:00) hora estándar de Colombia (Bogotá)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "ApplyArgumentOverloadModelAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ApplyArgumentOverloadModelAsync(String, String, String, String, List`1, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "ApplyArgumentSymbolKindModelAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ApplyArgumentSymbolKindModelAsync(String, String, String, String, Int32, List`1, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "ConfigureServiceAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ConfigureServiceAsync(ModelServiceConfiguration) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "DeepLearningModelInferenceAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.DeepLearningModelInferenceAsync(String, String, IEnumerable`1, IEnumerable`1) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetArgumentWeightsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetArgumentWeightsAsync(String, String, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetConfigureServiceAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetConfigureServiceAsync() (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetLoadedModelNamesAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetLoadedModelNamesAsync(String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetMarkupAttributeSuggestionsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetMarkupAttributeSuggestionsAsync(String, String, String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetMarkupTagSuggestionsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetMarkupTagSuggestionsAsync(String, String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPatternAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternAsync(String, String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPatternAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternAsync(String, String, String, QueryModelOrigin, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPatternsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternsAsync(String, String, IEnumerable`1) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPatternsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternsAsync(String, String, IEnumerable`1, QueryModelOrigin, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "LoadModelAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.LoadModelAsync(String, String, String, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "RequestLoadModelsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.RequestLoadModelsAsync(String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "SendTelemetryAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.SendTelemetryAsync(String, Property[], Exception) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "SendTraceAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.SendTraceAsync(TraceEventType, String, Boolean) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetSerializedTelemetrySessionSettingsAsync" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetSerializedTelemetrySessionSettingsAsync() (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "ApplyArgumentOverloadModel" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ApplyArgumentOverloadModelAsync(String, String, String, String, List`1, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "ApplyArgumentSymbolKindModel" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ApplyArgumentSymbolKindModelAsync(String, String, String, String, Int32, List`1, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "ConfigureService" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ConfigureServiceAsync(ModelServiceConfiguration) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "DeepLearningModelInference" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.DeepLearningModelInferenceAsync(String, String, IEnumerable`1, IEnumerable`1) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetArgumentWeights" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetArgumentWeightsAsync(String, String, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetConfigureService" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetConfigureServiceAsync() (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetLoadedModelNames" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetLoadedModelNamesAsync(String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetMarkupAttributeSuggestions" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetMarkupAttributeSuggestionsAsync(String, String, String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetMarkupTagSuggestions" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetMarkupTagSuggestionsAsync(String, String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPattern" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternAsync(String, String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPattern" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternAsync(String, String, String, QueryModelOrigin, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPatterns" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternsAsync(String, String, IEnumerable`1) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetPatterns" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetPatternsAsync(String, String, IEnumerable`1, QueryModelOrigin, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "LoadModel" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.LoadModelAsync(String, String, String, CancellationToken) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "RequestLoadModels" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.RequestLoadModelsAsync(String, String) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "SendTelemetry" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.SendTelemetryAsync(String, Property[], Exception) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "SendTrace" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.SendTraceAsync(TraceEventType, String, Boolean) (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia : Information : Added local RPC method "GetSerializedTelemetrySessionSettings" -> Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetSerializedTelemetrySessionSettingsAsync() (Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget)
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 2 :Listening for events from Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.ModelLoaded to raise notification.
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 2 :Listening for events from Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.NoMatchingModelLoaded to raise notification.
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 2 :Listening for events from Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.RemoteTelemetrySent to raise notification.
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 2 :Listening for events from Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.RemoteTraceSent to raise notification.
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 3 :Listening started.
+05/27/2025 18:19:28 hora estándar de Colombia : Information : vs-intellicode-base-models read: Content-Length: 90
+
+{"jsonrpc":"2.0","id":2,"method":"GetSerializedTelemetrySessionSettingsAsync","params":[]}
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 7 :{"id":2,"method":"GetSerializedTelemetrySessionSettingsAsync"}
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 6 :Received request "2" for method "GetSerializedTelemetrySessionSettingsAsync".
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 9 :Invoking Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetSerializedTelemetrySessionSettingsAsync()
+05/27/2025 18:19:28 hora estándar de Colombia : Start : GetSerializedTelemetrySessionSettingsAsync
+05/27/2025 18:19:28 hora estándar de Colombia : Stop : GetSerializedTelemetrySessionSettingsAsync
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 8 :{"id":2}
+05/27/2025 18:19:28 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 571
+
+{"jsonrpc":"2.0","id":2,"result":"{\"TelemetryLevel\":\"all\",\"IsOptedIn\":false,\"HostName\":\"Default\",\"AppInsightsInstrumentationKey\":null,\"AsimovInstrumentationKey\":null,\"CollectorApiKey\":\"0c6ae279ed8443289764825290e4f9e2-1a736e7c-1324-4338-be46-fc2a58ae4d14-7255\",\"AppId\":1010,\"UserId\":\"95b6a6ed-46ff-43e3-84aa-7ed2fae683d1\",\"Id\":\"0272bc1b-b1ee-44c6-b574-9ab47dbc75311748387713060\",\"ProcessStartTime\":133928613235214889,\"SkuName\":null,\"VSExeVersion\":null,\"BucketFiltersToEnableWatsonForFaults\":[],\"BucketFiltersToAddDumpsToFaults\":[]}"}
+05/27/2025 18:19:28 hora estándar de Colombia : Information : vs-intellicode-base-models read: Content-Length: 356
+
+{"jsonrpc":"2.0","id":3,"method":"LoadModelAsync","params":["csharp","intellisense-members-lstm2","/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/starred-suggestions/platforms/linux-x64/node_modules/@vsintellicode/starred-suggestions-csharp.linux-x64/ModelFiles/csharp_intellisense-members-lstm2.model"]}
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 7 :{"id":3,"method":"LoadModelAsync"}
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 6 :Received request "3" for method "LoadModelAsync".
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 9 :Invoking Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.LoadModelAsync(String, String, String, CancellationToken)
+05/27/2025 18:19:28 hora estándar de Colombia : Start : LoadModelAsync
+05/27/2025 18:19:28 hora estándar de Colombia: Information : 8 :{"id":null,"method":"RemoteTraceSent"}
+05/27/2025 18:19:28 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 487
+
+{"traceparent":"00-d27a8ada3a1837499ce13c626a602d4f-d1eceed7148f504f-01","jsonrpc":"2.0","method":"RemoteTraceSent","params":[{"source":"ModelService","type":8,"message":"Loading model for csharp intellisense-members-lstm2 from /home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/starred-suggestions/platforms/linux-x64/node_modules/@vsintellicode/starred-suggestions-csharp.linux-x64/ModelFiles/csharp_intellisense-members-lstm2.model."}]}
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 8 :{"id":null,"method":"ModelLoaded"}
+05/27/2025 18:19:29 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 221
+
+{"traceparent":"00-d27a8ada3a1837499ce13c626a602d4f-8fd00633b0de4742-01","jsonrpc":"2.0","method":"ModelLoaded","params":[{"model":"CsharpDL_$base$_2.0.0","language":"csharp","analyzerName":"intellisense-members-lstm2"}]}
+05/27/2025 18:19:29 hora estándar de Colombia : Stop : LoadModelAsync
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 8 :{"id":3}
+05/27/2025 18:19:29 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+05/27/2025 18:19:29 hora estándar de Colombia : Information : vs-intellicode-base-models read: Content-Length: 109
+
+{"jsonrpc":"2.0","id":4,"method":"GetLoadedModelNamesAsync","params":["csharp","intellisense-members-lstm2"]}
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 7 :{"id":4,"method":"GetLoadedModelNamesAsync"}
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 6 :Received request "4" for method "GetLoadedModelNamesAsync".
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 9 :Invoking Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetLoadedModelNamesAsync(String, String)
+05/27/2025 18:19:29 hora estándar de Colombia : Start : GetLoadedModelNamesAsync
+05/27/2025 18:19:29 hora estándar de Colombia : Stop : GetLoadedModelNamesAsync
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 8 :{"id":4}
+05/27/2025 18:19:29 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 59
+
+{"jsonrpc":"2.0","id":4,"result":["CsharpDL_$base$_2.0.0"]}
+05/27/2025 18:19:29 hora estándar de Colombia : Information : vs-intellicode-base-models read: Content-Length: 348
+
+{"jsonrpc":"2.0","id":5,"method":"LoadModelAsync","params":["csharp","intellisense-arguments","/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/starred-suggestions/platforms/linux-x64/node_modules/@vsintellicode/starred-suggestions-csharp.linux-x64/ModelFiles/csharp_intellisense-arguments.model"]}
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 7 :{"id":5,"method":"LoadModelAsync"}
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 6 :Received request "5" for method "LoadModelAsync".
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 9 :Invoking Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.LoadModelAsync(String, String, String, CancellationToken)
+05/27/2025 18:19:29 hora estándar de Colombia : Start : LoadModelAsync
+05/27/2025 18:19:29 hora estándar de Colombia: Information : 8 :{"id":null,"method":"RemoteTraceSent"}
+05/27/2025 18:19:29 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 479
+
+{"traceparent":"00-556ec90af1481a42ba68ad7bb3b345fd-84f62d532bb0fc4b-01","jsonrpc":"2.0","method":"RemoteTraceSent","params":[{"source":"ModelService","type":8,"message":"Loading model for csharp intellisense-arguments from /home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/starred-suggestions/platforms/linux-x64/node_modules/@vsintellicode/starred-suggestions-csharp.linux-x64/ModelFiles/csharp_intellisense-arguments.model."}]}
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 8 :{"id":null,"method":"ModelLoaded"}
+05/27/2025 18:19:30 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 222
+
+{"traceparent":"00-556ec90af1481a42ba68ad7bb3b345fd-f9e947354ac69a4f-01","jsonrpc":"2.0","method":"ModelLoaded","params":[{"model":"C#_argument_$base$_0.0.1.1","language":"csharp","analyzerName":"intellisense-arguments"}]}
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 8 :{"id":null,"method":"RemoteTraceSent"}
+05/27/2025 18:19:30 hora estándar de Colombia : Stop : LoadModelAsync
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 8 :{"id":5}
+05/27/2025 18:19:30 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 203
+
+{"traceparent":"00-556ec90af1481a42ba68ad7bb3b345fd-095462fe4ba47b44-01","jsonrpc":"2.0","method":"RemoteTraceSent","params":[{"source":"ModelService","type":8,"message":"Compacting models took 34ms."}]}Content-Length: 38
+
+{"jsonrpc":"2.0","id":5,"result":null}
+05/27/2025 18:19:30 hora estándar de Colombia : Information : vs-intellicode-base-models read: Content-Length: 105
+
+{"jsonrpc":"2.0","id":6,"method":"GetLoadedModelNamesAsync","params":["csharp","intellisense-arguments"]}
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 7 :{"id":6,"method":"GetLoadedModelNamesAsync"}
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 6 :Received request "6" for method "GetLoadedModelNamesAsync".
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 9 :Invoking Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseServiceTarget.GetLoadedModelNamesAsync(String, String)
+05/27/2025 18:19:30 hora estándar de Colombia : Start : GetLoadedModelNamesAsync
+05/27/2025 18:19:30 hora estándar de Colombia : Stop : GetLoadedModelNamesAsync
+05/27/2025 18:19:30 hora estándar de Colombia: Information : 8 :{"id":6}
+05/27/2025 18:19:30 hora estándar de Colombia : Information : vs-intellicode-base-models write: Content-Length: 64
+
+{"jsonrpc":"2.0","id":6,"result":["C#_argument_$base$_0.0.1.1"]}
+05/27/2025 18:20:38 hora estándar de Colombia : Information : vs-intellicode-base-models read: end of stream
+05/27/2025 18:20:38 hora estándar de Colombia : Information : Waiting for 'vs-intellicode-base-models' instance to complete its completionTask.
+05/27/2025 18:20:38 hora estándar de Colombia: Information : 13 :Connection closing (RemotePartyTerminated: Reached end of stream.). 
+05/27/2025 18:20:38 hora estándar de Colombia : Information : Disposed 'vs-intellicode-base-models' via 'completionTask' method.
+05/27/2025 18:20:38 hora estándar de Colombia : Information : Finishing shutting down service: vs-intellicode-base-models.

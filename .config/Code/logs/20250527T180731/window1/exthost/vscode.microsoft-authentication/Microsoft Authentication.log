@@ -1,0 +1,14 @@
+2025-05-27 18:07:42.072 [info] Acquired MSAL enablement value from default. Value: false
+2025-05-27 18:07:42.216 [warning] [Tue, 27 May 2025 23:07:42 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-05-27 18:07:42.263 [info] [getSessions] [all] starting
+2025-05-27 18:07:42.263 [info] [getSessions] [all] returned 0 session(s)
+2025-05-27 18:07:42.474 [info] [getSessions] [all] starting
+2025-05-27 18:07:42.474 [info] [getSessions] [all] returned 0 session(s)
+2025-05-27 18:07:42.500 [info] [getSessions] [VSCODE_TENANT:organizations] starting
+2025-05-27 18:07:42.500 [warning] [Tue, 27 May 2025 23:07:42 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-05-27 18:07:42.501 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2025-05-27 18:07:42.501 [warning] [Tue, 27 May 2025 23:07:42 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-05-27 18:07:42.525 [info] [getSessions] [VSCODE_TENANT:organizations] returned 0 session(s)
+2025-05-27 18:07:42.530 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2025-05-27 18:07:42.549 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2025-05-27 18:07:42.549 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)

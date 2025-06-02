@@ -1,0 +1,355 @@
+﻿05/27/2025 17:59:08 Colombia Standard Time : Information : Local timezone is (UTC-05:00) Colombia Standard Time (Bogota)
+05/27/2025 17:59:09 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 110
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":158984}]}
+05/27/2025 17:59:09 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 443
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1590234B78","ControllerConfig":{"Executable":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-controller.linux-x64/Microsoft.VisualStudio.Code.ServiceController","Args":["4828554b07"],"PipeName":"4828554b07"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+05/27/2025 17:59:09 Colombia Standard Time : Information : Connected to Hub Controller's client watch 'net.pipe://1590234B78
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 110
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":158984}]}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 443
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1590234B78","ControllerConfig":{"Executable":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-controller.linux-x64/Microsoft.VisualStudio.Code.ServiceController","Args":["4828554b07"],"PipeName":"4828554b07"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 11221
+
+
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: {"jsonrpc":"2.0","id":3,"method":"RegisterServicesAsync","params":[{"Microsoft.VisualStudio.CpsProjectIconSourceService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory"}},"Microsoft.VisualStudio.LaunchConfigurationService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.CompositionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory"}},"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory"}},"Microsoft.VisualStudio.TestWindow.VSCode.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},"Microsoft.VisualStudio.AspireRunSettingService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.AspireRunSettingServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.AspireServer":{"host":"dotnet.aspireServer","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.AspireServer.dll","fullClassName":"Microsoft.WebTools.AspireServer.ServiceFactory"}},"Microsoft.VisualStudio.Debugger.AspireService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.AspireDebugServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.WebTools.CssVisualDiagnosticsService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Microsoft.WebTools.ProjectSystem.VSCode.dll","fullClassName":"Microsoft.WebTools.ProjectSystem.VSCode.VisualDiagnostics.CssVisualDiagnosticsFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services/Microsoft.ProjectSystem.Managed.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectQueryTestService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.ProjectQueryTestServiceFactory"}},"helloServiceHubDotNetHost":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.HelloWorldFactory"}},"vs-intellicode-base-models":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64/Microsoft.VisualStudio.IntelliCode.CSharp.BaseModelService.dll","fullClassName":"Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory"}}}]}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 346
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/080220444a"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 354
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/e59285124c"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 331
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/0e81dda970"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:10 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 324
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"Name":"vs-intellicode-base-models","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/76097da970"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}Content-Length: 369
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/9f93f6ec33"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:11 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 369
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/7bcfc98997"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":3,"result":{"RequestId":"aa073c22-526a-44ea-b466-252bef84c082","PipeName":"/home/rugery/.ServiceHub/4828554b07/c37cb02378","IsEmpty":false}}
+05/27/2025 17:59:13 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":6,"result":{"RequestId":"77949c09-4e68-42c9-9939-89536fa90797","PipeName":"/home/rugery/.ServiceHub/4828554b07/ceee31510a","IsEmpty":false}}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/76097da970'.
+05/27/2025 17:59:13 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/080220444a'.
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:13 Colombia Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:13 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":4,"result":{"RequestId":"f3d04d3c-d436-4af3-a282-151120be6257","PipeName":"/home/rugery/.ServiceHub/4828554b07/3d817671d3","IsEmpty":false}}
+05/27/2025 17:59:13 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":5,"result":{"RequestId":"1b4c39ed-53ff-4e51-9cbb-544dc9930073","PipeName":"/home/rugery/.ServiceHub/4828554b07/c8ca1ffb6a","IsEmpty":false}}
+05/27/2025 17:59:13 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":8,"result":{"RequestId":"767995d4-b870-4fdc-a8e6-5e72839426d2","PipeName":"/home/rugery/.ServiceHub/4828554b07/cdf14165d5","IsEmpty":false}}Content-Length: 162
+
+{"jsonrpc":"2.0","id":7,"result":{"RequestId":"a8d86b63-0ebf-4324-9963-d2f599f97112","PipeName":"/home/rugery/.ServiceHub/4828554b07/077359d6e3","IsEmpty":false}}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/0e81dda970'.
+05/27/2025 17:59:13 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/7bcfc98997'.
+05/27/2025 17:59:13 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/9f93f6ec33'.
+05/27/2025 17:59:13 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/e59285124c'.
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:13 Colombia Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:13 Colombia Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"3ef1ec1c-9cd3-43a1-95dd-bc7bf2d6a7da","pipeName":"/tmp/cc5d572e7a1643bcb9e91f9ad0d5fd12"}}
+05/27/2025 17:59:13 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"190c4a48-c683-4176-9871-d455afff98a2","pipeName":"/tmp/a6ce361cfe1f4d61a374b1711aa9b10f"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"7a5f99cc-c57b-437f-8a94-62224213a2e1","pipeName":"/tmp/ca0d49b63d41447bb193b72fbcf2e3e9"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"6c54d719-d248-40ac-82fb-6767905c4360","pipeName":"/tmp/8e783351dc7147afa813995870434520"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"59f59e46-d740-4c86-a869-edfd1f1b1292","pipeName":"/tmp/5216a7f786194eb2b083e61090f5dec9"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"83738ceb-8be0-436b-9471-f33bbb97cc1e","pipeName":"/tmp/7859b224570a4d1f9f758e62f61ccffc"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 203
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 353
+
+{"jsonrpc":"2.0","id":9,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/cf7afc49d4"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":9,"result":{"RequestId":"6d56e055-b168-404e-b0d5-41d1e6bc02ee","PipeName":"/home/rugery/.ServiceHub/4828554b07/afbcf7c6ef","IsEmpty":false}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 146
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"6d56e055-b168-404e-b0d5-41d1e6bc02ee","pipeName":"/home/rugery/.ServiceHub/4828554b07/afbcf7c6ef"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/cf7afc49d4'.
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"c6f0fa04-b6c7-47d5-8a36-6d1c3106fe90","pipeName":"/tmp/688cf32fa2784a089d1b29267f345691"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ComponentExportsService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 197
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NoDelay.EnvironmentService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"8a824fdc-2f39-485d-b9d1-59a8a86adafc","pipeName":"/tmp/69a78fe0acd74b8781ed57429968f3d0"}}
+05/27/2025 17:59:14 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":5,"result":{"requestId":"31a38098-bbe3-4aa0-a1ba-ff6a4eb68fa3","pipeName":"/tmp/2878f1c104de4df6b6c6d912eacc8a33"}}
+05/27/2025 17:59:15 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 369
+
+{"jsonrpc":"2.0","id":10,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/f1afec0b1f"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:15 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":10,"result":{"RequestId":"0dbb9b40-a8f8-48e2-ac64-20b677bb04b4","PipeName":"/home/rugery/.ServiceHub/4828554b07/c586373453","IsEmpty":false}}
+05/27/2025 17:59:15 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/f1afec0b1f'.
+05/27/2025 17:59:15 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:15 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"0f1cf7cf-0513-4ff1-b28f-4b45297e39e9","pipeName":"/tmp/91058fbc6b994e0fb1d3cd44e8942b00"}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 242
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NuGetSolutionRestoreService","version":"0.1"},{"activationArguments":{"needEvents":"True"},"clientCulture":"en-US","clientUICulture":"en-US"}]}Content-Length: 204
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ActiveDocumentsInformationService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":6,"result":{"requestId":"e3118f83-5808-45c3-8afb-dda738b1c838","pipeName":"/tmp/2eef92031c744128bb1704377ebecaac"}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 270
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.CpsProjectIconSourceService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}],"traceparent":"00-a53e59a017ebd449b32ef42a77fed708-f57ce0d17fdcde46-00"}
+05/27/2025 17:59:16 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 349
+
+{"jsonrpc":"2.0","id":11,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.CpsProjectIconSourceService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/a3d398beaf"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":7,"result":{"requestId":"76c979eb-4c7a-4920-85dd-5aae7c20f414","pipeName":"/tmp/56d6787de79f44b1a3edf52d84d683a0"}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":11,"result":{"RequestId":"b8313058-8eaa-480d-84ad-2f87aa84c9b6","PipeName":"/home/rugery/.ServiceHub/4828554b07/1dced4e228","IsEmpty":false}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 146
+
+{"jsonrpc":"2.0","id":8,"result":{"requestId":"b8313058-8eaa-480d-84ad-2f87aa84c9b6","pipeName":"/home/rugery/.ServiceHub/4828554b07/1dced4e228"}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/a3d398beaf'.
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 293
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","version":"0.3"},{"clientCulture":"en-US","clientUICulture":"en-US"}],"traceparent":"00-28451d9eae2b5e4bbb66ccae71e62d7b-8dfe7f986b07d24e-00"}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:16 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 372
+
+{"jsonrpc":"2.0","id":12,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/096643f91b"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":12,"result":{"RequestId":"d0cae188-a8ab-4d30-a036-e0b34c893173","PipeName":"/home/rugery/.ServiceHub/4828554b07/c6925f9c12","IsEmpty":false}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 146
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"d0cae188-a8ab-4d30-a036-e0b34c893173","pipeName":"/home/rugery/.ServiceHub/4828554b07/c6925f9c12"}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/096643f91b'.
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"41c19796-42c7-49c1-84f4-5471760a08bc","pipeName":"/tmp/4198549319f44306bd34a804b1977645"}}
+05/27/2025 17:59:16 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"1790a551-f4ee-45b8-9478-feae37a6d728","pipeName":"/tmp/50d5c075383340389146153dae50134a"}}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 197
+
+{"jsonrpc":"2.0","id":9,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NoDelay.EnvironmentService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":9,"result":{"requestId":"31aac728-f734-4bee-93c5-f739e7a91eed","pipeName":"/tmp/44a366706be5425d8e20a8b120b19d9c"}}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 203
+
+{"jsonrpc":"2.0","id":10,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.LanguageServices.WorkspaceProjectFactoryService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:18 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 370
+
+{"jsonrpc":"2.0","id":13,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/d0de6752e3"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:18 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":13,"result":{"RequestId":"440c757e-bb84-4f48-b8da-b81594b868c7","PipeName":"/home/rugery/.ServiceHub/4828554b07/970be3fb4b","IsEmpty":false}}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/d0de6752e3'.
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 185
+
+{"jsonrpc":"2.0","id":11,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.OptionService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 138
+
+{"jsonrpc":"2.0","id":11,"result":{"requestId":"528a2934-823b-4ecb-84f1-72cc172eaefa","pipeName":"/tmp/b0cc1eaa951546659d19ced3be1f85a7"}}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"ac7662a6-7bb8-4476-9596-e5536f8fc373","pipeName":"/tmp/14203efe15a946af9b8b1e082fc55e44"}}
+05/27/2025 17:59:18 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 138
+
+{"jsonrpc":"2.0","id":10,"result":{"requestId":"36fa1d51-3e61-4e70-b31f-8bf3041ec5ac","pipeName":"/tmp/f50f5466c3e742edb5563ab81155fcae"}}
+05/27/2025 17:59:21 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 199
+
+{"jsonrpc":"2.0","id":12,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NuGetSolutionRestoreService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:21 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 138
+
+{"jsonrpc":"2.0","id":12,"result":{"requestId":"0eab44e9-fa0c-4ea5-b4f7-81ed780076b8","pipeName":"/tmp/ad8018a57f3a48a2a7872b419830bb7e"}}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 250
+
+{"jsonrpc":"2.0","id":13,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.LogOutputChannelService","version":"0.1"},{"activationArguments":{"outputChannelName":"Projects"},"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 138
+
+{"jsonrpc":"2.0","id":13,"result":{"requestId":"cf361098-cf6c-4fbb-bcd3-389f6c97e36e","pipeName":"/tmp/e2da6840cb964418a91c91b5fbc25855"}}
+05/27/2025 17:59:22 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 372
+
+{"jsonrpc":"2.0","id":14,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/a5a71edc10"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 363
+
+{"jsonrpc":"2.0","id":15,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/5b358f7c81"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":14,"result":{"RequestId":"edfe955b-1758-49d0-a777-ef7fc65b1435","PipeName":"/home/rugery/.ServiceHub/4828554b07/6e147c250b","IsEmpty":false}}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/a5a71edc10'.
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:22 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":15,"result":{"RequestId":"ccfa5d7e-da20-4269-b1f3-ff0c30492c62","PipeName":"/home/rugery/.ServiceHub/4828554b07/4357e231b9","IsEmpty":false}}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Disposing ServiceBroker server '/home/rugery/.ServiceHub/4828554b07/5b358f7c81'.
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.5"}}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"53c4c4f3-7b26-4c35-95aa-5da89ebfcb9c","pipeName":"/tmp/d8f45cd9ac6c44759cc10d00adeb2ab6"}}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+05/27/2025 17:59:22 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"9c2ae06c-84b1-47c1-ba0c-1bb23ecd8c30","pipeName":"/tmp/716e0af7a1904fd3a7df515423aacd0e"}}
+05/27/2025 18:00:51 Colombia Standard Time : Information : VsHubClient-hubController write: Content-Length: 332
+
+{"jsonrpc":"2.0","id":16,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/4828554b07/bcb774316a"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 18:00:51 Colombia Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":16,"result":{"RequestId":"dc774aed-fae6-4a71-bbb1-4856b7dc8cde","PipeName":"/home/rugery/.ServiceHub/4828554b07/180b370887","IsEmpty":false}}
+05/27/2025 18:00:51 Colombia Standard Time : Information : VsHubClient-hubController JSON RPC has been disposed
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : VsHubClient-hubController read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: end of stream
+05/27/2025 18:00:51 Colombia Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: end of stream

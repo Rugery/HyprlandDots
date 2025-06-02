@@ -1,0 +1,28 @@
+2025-05-27 18:15:17.290 [info] --------------------------------------------------------------------------------
+2025-05-27 18:15:17.290 [info] Razor.VSCode version 10.0.0-preview.25252.1
+2025-05-27 18:15:17.290 [info] --------------------------------------------------------------------------------
+2025-05-27 18:15:17.290 [info] Razor's log level is currently set to 'Info'
+2025-05-27 18:15:17.290 [info]  - To change Razor's log level use the gear icon on the output window
+2025-05-27 18:15:17.290 [info]  - To report issues invoke the 'Report a Razor issue' command via the command palette.
+2025-05-27 18:15:17.290 [info] -----------------------------------------------------------------------------------------------------------------------------
+2025-05-27 18:15:17.290 [info] 
+2025-05-27 18:15:17.290 [info] Locating .NET runtime version 9.0.1
+2025-05-27 18:15:18.644 [info] Did not find .NET 9.0.1 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+2025-05-27 18:15:22.604 [info] Razor language server path: /home/rugery/.vscode/extensions/ms-dotnettools.csharp-2.76.27-linux-x64/.razor/rzls
+2025-05-27 18:15:22.604 [info] Server arguments --logLevel 3 --DelegateToCSharpOnDiagnosticPublish true --UpdateBuffersForClosedDocuments true --SingleServerCompletionSupport true --ForceRuntimeCodeGeneration false --UseNewFormattingEngine true --telemetryLevel all --sessionId 0272bc1b-b1ee-44c6-b574-9ab47dbc75311748387713060 --telemetryExtensionPath /home/rugery/.vscode/extensions/ms-dotnettools.csharp-2.76.27-linux-x64/.razorDevKit/Microsoft.VisualStudio.DevKit.Razor.dll
+2025-05-27 18:15:22.691 [info] No Razor files detected in workspace, delaying language server start.
+2025-05-27 18:15:26.492 [info] [Razor.LanguageClient.Cohost.CohostStartupService] Razor extension startup finished.
+2025-05-27 18:20:42.402 [info] --------------------------------------------------------------------------------
+2025-05-27 18:20:42.402 [info] Razor.VSCode version 10.0.0-preview.25252.1
+2025-05-27 18:20:42.402 [info] --------------------------------------------------------------------------------
+2025-05-27 18:20:42.402 [info] Razor's log level is currently set to 'Info'
+2025-05-27 18:20:42.402 [info]  - To change Razor's log level use the gear icon on the output window
+2025-05-27 18:20:42.402 [info]  - To report issues invoke the 'Report a Razor issue' command via the command palette.
+2025-05-27 18:20:42.402 [info] -----------------------------------------------------------------------------------------------------------------------------
+2025-05-27 18:20:42.402 [info] 
+2025-05-27 18:20:42.402 [info] Locating .NET runtime version 9.0.1
+2025-05-27 18:20:42.853 [info] Did not find .NET 9.0.1 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+2025-05-27 18:20:46.001 [info] Razor language server path: /home/rugery/.vscode/extensions/ms-dotnettools.csharp-2.76.27-linux-x64/.razor/rzls
+2025-05-27 18:20:46.001 [info] Server arguments --logLevel 3 --DelegateToCSharpOnDiagnosticPublish true --UpdateBuffersForClosedDocuments true --SingleServerCompletionSupport true --ForceRuntimeCodeGeneration false --UseNewFormattingEngine true --telemetryLevel all --sessionId 0272bc1b-b1ee-44c6-b574-9ab47dbc75311748387713060 --telemetryExtensionPath /home/rugery/.vscode/extensions/ms-dotnettools.csharp-2.76.27-linux-x64/.razorDevKit/Microsoft.VisualStudio.DevKit.Razor.dll
+2025-05-27 18:20:46.069 [info] No Razor files detected in workspace, delaying language server start.
+2025-05-27 18:20:49.259 [info] [Razor.LanguageClient.Cohost.CohostStartupService] Razor extension startup finished.

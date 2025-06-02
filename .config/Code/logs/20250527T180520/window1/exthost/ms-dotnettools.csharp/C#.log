@@ -1,0 +1,20 @@
+2025-05-27 18:05:26.993 [info] Locating .NET runtime version 9.0.1
+2025-05-27 18:05:29.078 [info] Did not find .NET 9.0.1 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+2025-05-27 18:05:30.155 [info] Dotnet path: /home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet
+2025-05-27 18:05:30.155 [info] Activating C# + C# Dev Kit + C# IntelliCode...
+2025-05-27 18:05:31.228 [info] [stdout] {"pipeName":"/tmp/7d0de835.sock"}
+
+2025-05-27 18:05:31.228 [info] received named pipe information from server
+2025-05-27 18:05:31.229 [info] client has connected to server
+2025-05-27 18:05:31.478 [info] [Info  - 6:05:31 p. m.] [Program] Language server initialized
+2025-05-27 18:05:45.520 [info] [Info  - 6:05:45 p. m.] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/rugery/Proyects/TestDotnet/TestDotnet.csproj loaded by C# Dev Kit
+2025-05-27 18:06:00.552 [info] Locating .NET runtime version 9.0.1
+2025-05-27 18:06:02.542 [info] Did not find .NET 9.0.1 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+2025-05-27 18:06:03.821 [info] Dotnet path: /home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet
+2025-05-27 18:06:03.821 [info] Activating C# + C# Dev Kit + C# IntelliCode...
+2025-05-27 18:06:05.019 [info] [stdout] {"pipeName":"/tmp/a3fe4494.sock"}
+
+2025-05-27 18:06:05.019 [info] received named pipe information from server
+2025-05-27 18:06:05.049 [info] client has connected to server
+2025-05-27 18:06:05.551 [info] [Info  - 6:06:05 p. m.] [Program] Language server initialized
+2025-05-27 18:06:17.310 [info] [Info  - 6:06:17 p. m.] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/rugery/Proyects/TestDotnet/TestDotnet.csproj loaded by C# Dev Kit

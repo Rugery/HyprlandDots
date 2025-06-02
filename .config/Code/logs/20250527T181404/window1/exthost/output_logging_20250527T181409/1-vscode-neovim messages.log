@@ -1,0 +1,39 @@
+E282: No se pudo leer desde "nvim"
+Se ha detectado un error al procesar /home/rugery/.dotfiles/.config/nvim/after/plugin/lsp.lua:
+E5113: Error while calling lua chunk: /home/rugery/.dotfiles/.config/nvim/after/plugin/lsp.lua:2: module 'blink.cmp' not found:
+	no field package.preload['blink.cmp']
+	no file './blink/cmp.lua'
+	no file '/usr/share/luajit-2.1/blink/cmp.lua'
+	no file '/usr/local/share/lua/5.1/blink/cmp.lua'
+	no file '/usr/local/share/lua/5.1/blink/cmp/init.lua'
+	no file '/usr/share/lua/5.1/blink/cmp.lua'
+	no file '/usr/share/lua/5.1/blink/cmp/init.lua'
+	no file './blink/cmp.so'
+	no file '/usr/local/lib/lua/5.1/blink/cmp.so'
+	no file '/usr/lib/lua/5.1/blink/cmp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './blink.so'
+	no file '/usr/local/lib/lua/5.1/blink.so'
+	no file '/usr/lib/lua/5.1/blink.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	/home/rugery/.dotfiles/.config/nvim/after/plugin/lsp.lua:2: in main chunk
+21 lines yanked
+21 lines yanked
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado
+E21: No se pudo modificar, 'modifiable' está desactivado

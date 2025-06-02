@@ -1,0 +1,9 @@
+2025-05-27 18:00:55.201 [info] Started local extension host with pid 160605.
+2025-05-27 18:00:55.514 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 18:00:56.778 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-27 18:00:57.694 [info] Started local extension host with pid 160687.
+2025-05-27 18:00:59.011 [error] [Extension Host] (node:160605) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 18:01:00.077 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 18:01:00.999 [info] [perf] Render performance baseline is 120ms
+2025-05-27 18:01:04.153 [error] An unknown error occurred. Please consult the log for more details.

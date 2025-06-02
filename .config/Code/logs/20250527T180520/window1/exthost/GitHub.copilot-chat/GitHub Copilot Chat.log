@@ -1,0 +1,26 @@
+2025-05-27 18:05:29.076 [info] Using the Electron fetcher.
+2025-05-27 18:05:29.076 [info] Initializing Git extension service.
+2025-05-27 18:05:29.076 [info] Successfully activated the vscode.git extension.
+2025-05-27 18:05:29.076 [info] Enablement state of the vscode.git extension: true.
+2025-05-27 18:05:29.076 [info] Successfully registered Git commit message provider.
+2025-05-27 18:05:30.537 [info] Logged in as Rugery
+2025-05-27 18:05:31.401 [info] Got Copilot token for Rugery
+2025-05-27 18:05:31.830 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-27 18:05:31.830 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-27 18:05:31.863 [info] Registering default platform agent...
+2025-05-27 18:05:31.921 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-27 18:05:31.950 [info] Fetched model metadata in 513ms 857fd829-93b1-44c0-9026-dacd8f2cc5c6
+2025-05-27 18:05:32.043 [info] activationBlocker from 'languageModelAccess' took for 2011ms
+2025-05-27 18:06:02.524 [info] Using the Electron fetcher.
+2025-05-27 18:06:02.524 [info] Initializing Git extension service.
+2025-05-27 18:06:02.524 [info] Successfully activated the vscode.git extension.
+2025-05-27 18:06:02.524 [info] Enablement state of the vscode.git extension: true.
+2025-05-27 18:06:02.524 [info] Successfully registered Git commit message provider.
+2025-05-27 18:06:04.207 [info] Logged in as Rugery
+2025-05-27 18:06:05.181 [info] Got Copilot token for Rugery
+2025-05-27 18:06:05.426 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-27 18:06:05.426 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-27 18:06:05.460 [info] Registering default platform agent...
+2025-05-27 18:06:05.521 [info] Fetched model metadata in 312ms 593eacbd-d319-47ee-84bb-7965ec608fe0
+2025-05-27 18:06:05.579 [info] activationBlocker from 'languageModelAccess' took for 1941ms
+2025-05-27 18:06:05.590 [info] BYOK: Copilot Chat known models list fetched successfully.

@@ -1,0 +1,53 @@
+2025-05-27 18:15:13.799 [info] Started local extension host with pid 176086.
+2025-05-27 18:15:14.010 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 18:15:14.889 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2025-05-27 18:15:14.943 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-27 18:15:15.810 [info] Started local extension host with pid 176177.
+2025-05-27 18:15:16.943 [error] [Extension Host] (node:176086) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 18:15:17.768 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 18:15:18.986 [info] [perf] Render performance baseline is 205ms
+2025-05-27 18:19:18.562 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-27 18:20:39.230 [info] Started local extension host with pid 180535.
+2025-05-27 18:20:39.239 [info] Started local extension host with pid 180536.
+2025-05-27 18:20:39.434 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 18:20:39.436 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 18:20:41.546 [error] [Extension Host] (node:180535) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 18:20:42.860 [error] command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found: Error: command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found
+    at WKe.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1341)
+    at WKe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1273)
+2025-05-27 18:20:44.329 [error] command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found: Error: command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found
+    at WKe.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1341)
+    at WKe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1273)
+2025-05-27 18:20:45.548 [error] command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found: Error: command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found
+    at WKe.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1341)
+    at WKe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1273)
+2025-05-27 18:20:47.199 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-05-27 18:20:47.203 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-05-27 18:20:47.233 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-05-27 18:20:47.236 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-05-27 18:20:53.931 [info] Extension host (LocalProcess pid: 180535) is unresponsive.
+2025-05-27 18:20:54.763 [error] command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found: Error: command 'code.copilot.logStructured.editor.inlineSuggest.logFetch.commandId.1' not found
+    at WKe.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1341)
+    at WKe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1273)

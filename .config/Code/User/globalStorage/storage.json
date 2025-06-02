@@ -1,0 +1,77 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "05fe01b75488fa40960bc7269e99a9a9a79630136f4eb68294c207ac488c2dce",
+    "telemetry.devDeviceId": "cf54d6af-52b5-4f60-9af0-7eef8662d927",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/rugery/Proyects"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 30,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/rugery/Proyects": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/rugery/Proyects",
+            "backupPath": "/home/rugery/.config/Code/Backups/496f7651dd37d1523588e9fd0fec8848",
+            "uiState": {
+                "mode": 1,
+                "x": 7,
+                "y": 42,
+                "width": 1352,
+                "height": 719
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#0c0710",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(194, 193, 195, 0.6)",
+            "background": "#0c0710",
+            "editorBackground": "#0c0710",
+            "titleBarBackground": "#0c0710",
+            "titleBarBorder": "#0c0710",
+            "activityBarBackground": "#0c0710",
+            "activityBarBorder": "#0c0710",
+            "sideBarBackground": "#0c0710",
+            "sideBarBorder": "#0c0710",
+            "statusBarBackground": "#0c0710",
+            "statusBarBorder": "#0c0710",
+            "statusBarNoFolderBackground": "#0e0813"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 214,
+            "auxiliaryBarWidth": 185,
+            "workspaces": {
+                "bd5e829a8bf6087642c54c371224e85e": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

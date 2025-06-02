@@ -1,0 +1,13 @@
+2025-05-27 18:10:20.335 [info] Started local extension host with pid 171603.
+2025-05-27 18:10:20.386 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 18:10:20.928 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-27 18:10:21.777 [info] Started local extension host with pid 171652.
+2025-05-27 18:10:23.177 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 18:10:24.184 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:10:24.457 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:10:24.566 [error] [Extension Host] (node:171603) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 18:10:26.248 [info] [perf] Render performance baseline is 67ms
+2025-05-27 18:10:26.869 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:10:32.586 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:10:33.904 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

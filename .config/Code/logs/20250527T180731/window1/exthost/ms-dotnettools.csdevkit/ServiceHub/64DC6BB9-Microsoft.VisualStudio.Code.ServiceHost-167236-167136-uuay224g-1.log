@@ -1,0 +1,9 @@
+﻿05/27/2025 18:07:46 Colombia Standard Time : Information : Local timezone is (UTC-05:00) Colombia Standard Time (Bogota)
+05/27/2025 18:07:48 Colombia Standard Time : Information : Devhub Core CLR service module host. Copyright (c) Microsoft Corp
+05/27/2025 18:07:48 Colombia Standard Time : Information :   Host id: dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE
+05/27/2025 18:07:48 Colombia Standard Time : Information :   Controller pipe: net.pipe://167136BD57
+05/27/2025 18:07:48 Colombia Standard Time : Information : Running host until the hub controller sends 'exit' command...
+05/27/2025 18:08:24 Colombia Standard Time : Information : ModelService Information: 0 : Loading model for csharp intellisense-members-lstm2 from /home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/starred-suggestions/platforms/linux-x64/node_modules/@vsintellicode/starred-suggestions-csharp.linux-x64/ModelFiles/csharp_intellisense-members-lstm2.model.
+05/27/2025 18:08:25 Colombia Standard Time : Information : ModelService Information: 0 : Loading model for csharp intellisense-arguments from /home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/starred-suggestions/platforms/linux-x64/node_modules/@vsintellicode/starred-suggestions-csharp.linux-x64/ModelFiles/csharp_intellisense-arguments.model.
+05/27/2025 18:08:27 Colombia Standard Time : Information : ModelService Information: 0 : Compacting models took 19ms.
+05/27/2025 18:09:05 Colombia Standard Time : Information : ModelService Information: 0 : Requesting model load for csharp intellisense-arguments.

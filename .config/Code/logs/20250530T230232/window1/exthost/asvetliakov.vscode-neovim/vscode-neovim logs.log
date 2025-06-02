@@ -1,0 +1,1 @@
+2025-05-30 23:02:41.187 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/rugery/.vscode/extensions/asvetliakov.vscode-neovim-1.18.22/runtime/vscode-neovim.vim -u nvim

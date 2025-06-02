@@ -1,0 +1,45 @@
+[pyprland]
+plugins = [
+  "scratchpads",
+]
+
+[scratchpads.nmtui]
+animation = "fromTop"
+command = "kitty nmtui"
+class = "kitty"
+lazy = true
+size = "55% 55%"
+unfocus = "hide"
+
+[scratchpads.blueman]
+animation = "fromLeft"
+command = "blueman-manager"
+class = "blueman-manager"
+lazy = true
+size = "40% 45%"
+unfocus = "hide"
+
+[scratchpads.waypaper]
+animation = "fromTop"
+command = "waypaper"
+class = "waypaper"
+lazy = true
+size = "80% 80%"
+unfocus = "hide"
+
+[scratchpads.volume]
+animation = "fromRight"
+command = "pavucontrol"
+class = "org.pulseaudio.pavucontrol"
+lazy = true
+size = "40% 90%"
+unfocus = "hide"
+
+[scratchpads.music]
+animation = "fromBottom"
+command = "youtube-music"
+class = "com.github.th_ch.youtube_music"
+lazy = true
+size = "55% 85%"
+unfocus = "hide"
+

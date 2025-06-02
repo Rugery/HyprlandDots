@@ -1,0 +1,14 @@
+layout {
+  pane_template name="neovim" {
+    command "nvim"
+  }
+
+  tab name="editor" {
+    neovim focus=true;
+  }
+
+  tab name="terminal" {
+    pane;
+  }
+}
+

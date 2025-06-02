@@ -1,0 +1,16 @@
+2025-05-27 18:05:22.669 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 18:05:24.716 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 18:05:48.536 [info] Uninstalling extension from the profile: asvetliakov.vscode-neovim@1.18.22 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-27 18:05:48.748 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.22
+2025-05-27 18:05:49.050 [info] Successfully uninstalled extension from the profile asvetliakov.vscode-neovim@1.18.22 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-27 18:05:50.129 [info] Getting Manifest... asvetliakov.vscode-neovim
+2025-05-27 18:05:50.605 [info] Installing extension: asvetliakov.vscode-neovim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rugery/.vscode/extensions/extensions.json","path":"/home/rugery/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-27 18:05:50.794 [info] Removed the extension from removed list: asvetliakov.vscode-neovim
+2025-05-27 18:05:50.961 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-27 18:05:54.477 [info] Uninstalling extension from the profile: asvetliakov.vscode-neovim@1.18.22 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-27 18:05:54.530 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.22
+2025-05-27 18:05:54.636 [info] Successfully uninstalled extension from the profile asvetliakov.vscode-neovim@1.18.22 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-27 18:05:57.867 [info] Getting Manifest... asvetliakov.vscode-neovim
+2025-05-27 18:05:57.898 [info] Installing extension: asvetliakov.vscode-neovim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"operation":3,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rugery/.vscode/extensions/extensions.json","path":"/home/rugery/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false}
+2025-05-27 18:05:57.985 [info] Removed the extension from removed list: asvetliakov.vscode-neovim
+2025-05-27 18:05:58.063 [info] Extension installed successfully: asvetliakov.vscode-neovim vscode-userdata:/home/rugery/.vscode/extensions/extensions.json

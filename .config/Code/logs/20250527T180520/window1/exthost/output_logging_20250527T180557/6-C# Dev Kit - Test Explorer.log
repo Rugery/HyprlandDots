@@ -1,0 +1,9 @@
+Created Test Controller
+Log verbosity: minimal
+Using vstest from dotnet sdk in [/usr/share/dotnet/sdk/8.0.410].
+Initialized Test Explorer Server [165521]
+Test Store Folder: /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e/ms-dotnettools.csdevkit
+Test data store opened in 0.145 sec.
+Test controller initialized.
+Initialized project system provider.
+Waiting for projects to be detected by Project System...

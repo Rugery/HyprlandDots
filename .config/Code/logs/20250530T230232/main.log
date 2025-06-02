@@ -1,0 +1,9 @@
+2025-05-30 23:02:33.137 [info] update#setState idle
+2025-05-30 23:02:54.000 [info] Extension host with pid 133949 exited with code: 0, signal: unknown.
+2025-05-30 23:02:54.286 [info] Extension host with pid 133890 exited with code: 0, signal: unknown.
+2025-05-30 23:03:03.133 [info] update#setState checking for updates
+2025-05-30 23:03:03.269 [info] update#setState idle
+2025-05-30 23:03:05.416 [info] Extension host with pid 134132 exited with code: 0, signal: unknown.
+2025-05-30 23:03:05.900 [info] Extension host with pid 134131 exited with code: 0, signal: unknown.
+2025-05-30 23:04:43.405 [info] Extension host with pid 134298 exited with code: 0, signal: unknown.
+2025-05-30 23:04:43.657 [info] Extension host with pid 134297 exited with code: 0, signal: unknown.

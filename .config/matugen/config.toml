@@ -1,0 +1,10 @@
+[config]
+
+[templates.gtk3]
+input_path = '/home/rugery/.dotfiles/.config/matugen/templates/gtk-colors.css'
+output_path = '/home/rugery/.dotfiles/.config/nwg-dock-hyprland/colors.css'
+
+[templates.gtk4]
+input_path = '/home/rugery/.dotfiles/.config/matugen/templates/gtk-colors.css'
+output_path = '/home/rugery/.dotfiles/.config/gtk-4.0/colors.css'
+

@@ -1,0 +1,15 @@
+2025-05-30 23:02:38.180 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 23:02:38.265 [info] Marked extension as removed vscodevim.vim-1.30.0
+2025-05-30 23:02:38.555 [info] Deleted marked for removal extension from disk vscodevim.vim /home/rugery/.vscode/extensions/vscodevim.vim-1.30.0
+2025-05-30 23:02:40.375 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 23:02:42.550 [info] Getting Manifest... github.copilot
+2025-05-30 23:02:42.779 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rugery/.vscode/extensions/extensions.json","path":"/home/rugery/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-30 23:02:43.276 [info] Getting Manifest... github.copilot-chat
+2025-05-30 23:02:48.078 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 2878ms.
+2025-05-30 23:02:49.524 [info] Extracted extension to file:///home/rugery/.vscode/extensions/github.copilot-1.326.0: github.copilot
+2025-05-30 23:02:49.554 [info] Renamed to /home/rugery/.vscode/extensions/github.copilot-1.326.0
+2025-05-30 23:02:49.594 [info] Marked extension as removed github.copilot-1.323.0
+2025-05-30 23:02:49.623 [info] Extension installed successfully: github.copilot vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-30 23:03:03.718 [info] Uninstalling extension from the profile: asvetliakov.vscode-neovim@1.18.22 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json
+2025-05-30 23:03:03.847 [info] Marked extension as removed asvetliakov.vscode-neovim-1.18.22
+2025-05-30 23:03:03.989 [info] Successfully uninstalled extension from the profile asvetliakov.vscode-neovim@1.18.22 vscode-userdata:/home/rugery/.vscode/extensions/extensions.json

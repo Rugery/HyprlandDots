@@ -1,0 +1,16 @@
+2025-05-27 17:47:25.985 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/rugery/.vscode/extensions/asvetliakov.vscode-neovim-1.18.22/runtime/vscode-neovim.vim
+2025-05-27 17:47:26.196 [info] MainController: Nvim info: {
+  nvimVersion: {
+    major: 0,
+    api_level: 13,
+    api_prerelease: false,
+    build: 'dirty',
+    minor: 11,
+    api_compatible: 0,
+    prerelease: false,
+    patch: 1
+  },
+  configDir: '/home/rugery/.config/nvim',
+  configFile: '/home/rugery/.dotfiles/.config/nvim/init.lua',
+  logFile: '/home/rugery/.local/state/nvim/log'
+}

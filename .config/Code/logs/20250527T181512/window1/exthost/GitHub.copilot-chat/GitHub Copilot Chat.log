@@ -1,0 +1,26 @@
+2025-05-27 18:15:21.759 [info] Using the Electron fetcher.
+2025-05-27 18:15:21.759 [info] Initializing Git extension service.
+2025-05-27 18:15:21.759 [info] Successfully activated the vscode.git extension.
+2025-05-27 18:15:21.759 [info] Enablement state of the vscode.git extension: true.
+2025-05-27 18:15:21.759 [info] Successfully registered Git commit message provider.
+2025-05-27 18:15:23.152 [info] Logged in as Rugery
+2025-05-27 18:15:24.024 [info] Got Copilot token for Rugery
+2025-05-27 18:15:24.417 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-27 18:15:24.417 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-27 18:15:24.454 [info] Registering default platform agent...
+2025-05-27 18:15:24.563 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-27 18:15:24.600 [info] Fetched model metadata in 555ms 7b372d48-77da-4bda-b0eb-13b488e12410
+2025-05-27 18:15:24.704 [info] activationBlocker from 'languageModelAccess' took for 2043ms
+2025-05-27 18:20:44.744 [info] Using the Electron fetcher.
+2025-05-27 18:20:44.744 [info] Initializing Git extension service.
+2025-05-27 18:20:44.744 [info] Successfully activated the vscode.git extension.
+2025-05-27 18:20:44.744 [info] Enablement state of the vscode.git extension: true.
+2025-05-27 18:20:44.744 [info] Successfully registered Git commit message provider.
+2025-05-27 18:20:46.117 [info] Logged in as Rugery
+2025-05-27 18:20:46.965 [info] Got Copilot token for Rugery
+2025-05-27 18:20:47.261 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-27 18:20:47.261 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-27 18:20:47.295 [info] Registering default platform agent...
+2025-05-27 18:20:47.370 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-27 18:20:47.376 [info] Fetched model metadata in 388ms 9fe1217c-a606-48b0-a47c-f1c1aacf91bd
+2025-05-27 18:20:47.446 [info] activationBlocker from 'languageModelAccess' took for 1752ms

@@ -1,0 +1,55 @@
+2025-05-27 17:52:24.007 [info] Extension host with pid 153586 started
+2025-05-27 17:52:24.008 [info] Skipping acquiring lock for /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e.
+2025-05-27 17:52:24.291 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-27 17:52:24.347 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-27 17:52:24.487 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-27 17:52:24.492 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-05-27 17:52:24.507 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-05-27 17:52:24.634 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-27 17:52:24.750 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-27 17:52:25.235 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: 'workspaceContains:**/*.csproj', root cause: ms-dotnettools.csdevkit
+2025-05-27 17:52:25.351 [info] Extension host with pid 153614 started
+2025-05-27 17:52:25.352 [info] Skipping acquiring lock for /home/rugery/.config/Code/User/workspaceStorage/bd5e829a8bf6087642c54c371224e85e.
+2025-05-27 17:52:25.387 [info] Eager extensions activated
+2025-05-27 17:52:25.429 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 17:52:25.715 [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: true, activationEvent: 'workspaceContains:**/*.csproj', root cause: ms-dotnettools.csdevkit
+2025-05-27 17:52:26.456 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 17:52:26.475 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 17:52:26.616 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-27 17:52:26.984 [info] ExtensionService#_doActivateExtension ms-dotnettools.csdevkit, startup: true, activationEvent: 'workspaceContains:**/*.csproj'
+2025-05-27 17:52:28.297 [info] Eager extensions activated
+2025-05-27 17:52:28.330 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 17:52:28.332 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 17:52:28.357 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 17:52:28.482 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 17:52:29.050 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 17:52:29.520 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-05-27 17:52:30.924 [error] TypeError: invalid msgpack-RPC message: expected array, got: false
+	at /home/rugery/.vscode/extensions/asvetliakov.vscode-neovim-1.18.22/dist/extension.js:2:67788
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-27 17:52:31.207 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscodeintellicode-csharp, startup: false, activationEvent: 'api', root cause: ms-dotnettools.csharp
+2025-05-27 17:52:35.247 [warning] DiagnosticCollection with name 'XamlDiagnostics' does already exist.
+2025-05-27 17:52:35.252 [warning] DiagnosticCollection with name 'HotReloadDiagnostics' does already exist.
+2025-05-27 17:55:51.115 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 17:55:51.116 [info] Extension host with pid 153614 exiting with code 0
+2025-05-27 17:55:51.144 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-27 17:55:51.257 [error] An error occurred when disposing the subscriptions for extension 'ms-dotnettools.csdevkit':
+2025-05-27 17:55:51.278 [error] Error: Connection is disposed.
+    at ue (/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/dist/extension.js:2:911755)
+    at Object.sendNotification (/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/dist/extension.js:2:912598)
+    at Proxy.dispose (/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/dist/extension.js:2:246729)
+    at Er (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:15046
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11919)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+    at Array.map (<anonymous>)
+    at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+    at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+    at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+    at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+    at MessagePortMain.emit (node:events:524:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-27 17:55:51.358 [info] Extension host with pid 153586 exiting with code 0

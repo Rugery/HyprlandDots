@@ -1,0 +1,36 @@
+2025-05-27 18:14:10.076 [info] MainController: Starting nvim: /usr/bin/nvim -N --embed --cmd source /home/rugery/.vscode/extensions/asvetliakov.vscode-neovim-1.18.22/runtime/vscode-neovim.vim -u nvim
+2025-05-27 18:14:10.177 [info] MainController: Nvim info: {
+  configDir: '/home/rugery/.config/nvim',
+  nvimVersion: {
+    major: 0,
+    build: 'dirty',
+    api_prerelease: false,
+    api_compatible: 0,
+    minor: 11,
+    patch: 1,
+    prerelease: false,
+    api_level: 13
+  },
+  logFile: '/home/rugery/.local/state/nvim/log'
+}
+2025-05-27 18:14:10.246 [info] MessagesManager: 'E282: No se pudo leer desde "nvim"\n' +
+  'Se ha detectado un error al procesar /home/rugery/.dotfiles/.config/nvim/after/plugin/lsp.lua:\n' +
+  "E5113: Error while calling lua chunk: /home/rugery/.dotfiles/.config/nvim/after/plugin/lsp.lua:2: module 'blink.cmp' not found:\n" +
+  "\tno field package.preload['blink.cmp']\n" +
+  "\tno file './blink/cmp.lua'\n" +
+  "\tno file '/usr/share/luajit-2.1/blink/cmp.lua'\n" +
+  "\tno file '/usr/local/share/lua/5.1/blink/cmp.lua'\n" +
+  "\tno file '/usr/local/share/lua/5.1/blink/cmp/init.lua'\n" +
+  "\tno file '/usr/share/lua/5.1/blink/cmp.lua'\n" +
+  "\tno file '/usr/share/lua/5.1/blink/cmp/init.lua'\n" +
+  "\tno file './blink/cmp.so'\n" +
+  "\tno file '/usr/local/lib/lua/5.1/blink/cmp.so'\n" +
+  "\tno file '/usr/lib/lua/5.1/blink/cmp.so'\n" +
+  "\tno file '/usr/local/lib/lua/5.1/loadall.so'\n" +
+  "\tno file './blink.so'\n" +
+  "\tno file '/usr/local/lib/lua/5.1/blink.so'\n" +
+  "\tno file '/usr/lib/lua/5.1/blink.so'\n" +
+  "\tno file '/usr/local/lib/lua/5.1/loadall.so'\n" +
+  'stack traceback:\n' +
+  "\t[C]: in function 'require'\n" +
+  '\t/home/rugery/.dotfiles/.config/nvim/after/plugin/lsp.lua:2: in main chunk\n'

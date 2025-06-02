@@ -1,0 +1,87 @@
+﻿05/27/2025 17:47:40 Colombia Standard Time : Information : Local timezone is (UTC-05:00) Colombia Standard Time (Bogota)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "getPipe" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetPipeAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "getProxy" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetProxyAsync(ServiceRpcDescriptor, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "handshake" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "requestServiceChannel" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "cancelServiceRequest" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.CancelServiceRequestAsync(Guid) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "getPipe" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetPipeAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "getProxy" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetProxyAsync(ServiceRpcDescriptor, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "handshake" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "requestServiceChannel" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time : Information : Added local RPC method "cancelServiceRequest" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.CancelServiceRequestAsync(Guid) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+05/27/2025 17:47:40 Colombia Standard Time: Information : 2 :Listening for events from Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.AvailabilityChanged to raise notification.
+05/27/2025 17:47:40 Colombia Standard Time: Information : 3 :Listening started.
+05/27/2025 17:47:40 Colombia Standard Time: Information : 7 :{"id":2,"method":"handshake"}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 6 :Received request "2" for method "handshake".
+05/27/2025 17:47:40 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken)
+05/27/2025 17:47:40 Colombia Standard Time : Start : handshake
+05/27/2025 17:47:40 Colombia Standard Time : Stop : handshake
+05/27/2025 17:47:40 Colombia Standard Time: Information : 8 :{"id":2}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 7 :{"id":3,"method":"requestServiceChannel"}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 6 :Received request "3" for method "requestServiceChannel".
+05/27/2025 17:47:40 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:40 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:40 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:40 Colombia Standard Time: Information : 8 :{"id":3}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 7 :{"id":4,"method":"requestServiceChannel"}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 6 :Received request "4" for method "requestServiceChannel".
+05/27/2025 17:47:40 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:40 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:40 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:40 Colombia Standard Time: Information : 8 :{"id":4}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 7 :{"id":5,"method":"requestServiceChannel"}
+05/27/2025 17:47:40 Colombia Standard Time: Information : 6 :Received request "5" for method "requestServiceChannel".
+05/27/2025 17:47:40 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:40 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:40 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:40 Colombia Standard Time: Information : 8 :{"id":5}
+05/27/2025 17:47:41 Colombia Standard Time: Information : 7 :{"id":6,"method":"requestServiceChannel"}
+05/27/2025 17:47:41 Colombia Standard Time: Information : 6 :Received request "6" for method "requestServiceChannel".
+05/27/2025 17:47:41 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:41 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:41 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:41 Colombia Standard Time: Information : 8 :{"id":6}
+05/27/2025 17:47:41 Colombia Standard Time: Information : 7 :{"id":7,"method":"requestServiceChannel"}
+05/27/2025 17:47:41 Colombia Standard Time: Information : 6 :Received request "7" for method "requestServiceChannel".
+05/27/2025 17:47:41 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:41 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:41 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:41 Colombia Standard Time: Information : 8 :{"id":7}
+05/27/2025 17:47:42 Colombia Standard Time: Information : 7 :{"id":8,"method":"requestServiceChannel"}
+05/27/2025 17:47:42 Colombia Standard Time: Information : 6 :Received request "8" for method "requestServiceChannel".
+05/27/2025 17:47:42 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:42 Colombia Standard Time : Transfer : Transfer, relatedActivityId=1fed5806-99b8-41d5-ab9f-ab41d6b7cc5b
+05/27/2025 17:47:42 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:42 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:42 Colombia Standard Time : Transfer : Transfer, relatedActivityId=ab473162-62d2-460e-b1e8-9d6bcc5086a8
+05/27/2025 17:47:42 Colombia Standard Time: Information : 8 :{"id":8}
+05/27/2025 17:47:45 Colombia Standard Time: Information : 7 :{"id":9,"method":"requestServiceChannel"}
+05/27/2025 17:47:45 Colombia Standard Time: Information : 6 :Received request "9" for method "requestServiceChannel".
+05/27/2025 17:47:45 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:45 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:45 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:45 Colombia Standard Time: Information : 8 :{"id":9}
+05/27/2025 17:47:45 Colombia Standard Time: Information : 7 :{"id":10,"method":"requestServiceChannel"}
+05/27/2025 17:47:45 Colombia Standard Time: Information : 6 :Received request "10" for method "requestServiceChannel".
+05/27/2025 17:47:45 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:45 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:45 Colombia Standard Time: Information : 7 :{"id":11,"method":"requestServiceChannel"}
+05/27/2025 17:47:45 Colombia Standard Time: Information : 6 :Received request "11" for method "requestServiceChannel".
+05/27/2025 17:47:45 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:45 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:45 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:45 Colombia Standard Time: Information : 8 :{"id":11}
+05/27/2025 17:47:45 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:45 Colombia Standard Time: Information : 8 :{"id":10}
+05/27/2025 17:47:48 Colombia Standard Time: Information : 7 :{"id":12,"method":"requestServiceChannel"}
+05/27/2025 17:47:48 Colombia Standard Time: Information : 6 :Received request "12" for method "requestServiceChannel".
+05/27/2025 17:47:48 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:48 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:48 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:48 Colombia Standard Time: Information : 8 :{"id":12}
+05/27/2025 17:47:49 Colombia Standard Time: Information : 7 :{"id":13,"method":"requestServiceChannel"}
+05/27/2025 17:47:49 Colombia Standard Time: Information : 6 :Received request "13" for method "requestServiceChannel".
+05/27/2025 17:47:49 Colombia Standard Time: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+05/27/2025 17:47:49 Colombia Standard Time : Start : requestServiceChannel
+05/27/2025 17:47:49 Colombia Standard Time : Stop : requestServiceChannel
+05/27/2025 17:47:49 Colombia Standard Time: Information : 8 :{"id":13}

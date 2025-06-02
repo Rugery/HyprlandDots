@@ -1,0 +1,25 @@
+2025-05-27 17:52:23.034 [info] Started local extension host with pid 153586.
+2025-05-27 17:52:23.173 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 17:52:23.609 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-27 17:52:24.240 [info] Started local extension host with pid 153614.
+2025-05-27 17:52:25.332 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 17:52:26.571 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 17:52:26.744 [error] [Extension Host] (node:153586) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 17:52:26.808 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 17:52:28.368 [info] [perf] Render performance baseline is 77ms
+2025-05-27 17:52:29.004 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 17:52:30.925 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-27 17:52:34.939 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 17:52:37.435 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 17:52:54.777 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Gf.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:417:29043)
+    at Gf.updateChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:417:28950)
+    at Wne.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2092:33670)
+    at E.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at x1e.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:680:2727)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1308:11769
+    at Array.map (<anonymous>)
+    at ju.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1308:11760)

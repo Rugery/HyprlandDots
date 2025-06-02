@@ -1,0 +1,61 @@
+﻿05/27/2025 18:20:50 hora estándar de Colombia : Information : Local timezone is (UTC-05:00) hora estándar de Colombia (Bogotá)
+05/27/2025 18:20:50 hora estándar de Colombia : Information : Service Hub .NET service module host started. Host id: dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE. Controller pipe: net.pipe://1808025778. PID: 180871
+05/27/2025 18:20:50 hora estándar de Colombia : Information : hubHostClr read: Content-Length: 116
+
+{"jsonrpc":"2.0","id":2,"method":"InitializeHostAsync","params":[{"HostsRootDirectory":".","AppConfigFallback":""}]}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : hubHostClr write: Content-Length: 79
+
+{"jsonrpc":"2.0","id":2,"result":"dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : hubHostClr read: Content-Length: 1028
+
+{"jsonrpc":"2.0","id":3,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/8a54962f16/6443c221fe","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : CLR host received start request for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service'
+05/27/2025 18:20:51 hora estándar de Colombia : Information : hubHostClr read: Content-Length: 998
+
+{"jsonrpc":"2.0","id":4,"method":"StartServiceAsync","params":[{"name":"vs-intellicode-base-models","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64","entryPoint":{"assemblyPath":"/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64/Microsoft.VisualStudio.IntelliCode.CSharp.BaseModelService.dll","fullClassName":"Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/rugery/.ServiceHub/8a54962f16/7385e88c13","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Loading service module assembly '/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll' from '/home/rugery/.vscode/extensions/ms-dotnettools.csdevkit-1.19.63-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64'
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Starting service module 'Microsoft.VisualStudio.TestWindow.VSCode.Service'. Class: Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory, Supported Version: 
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Started service 'Microsoft.VisualStudio.TestWindow.VSCode.Service'. Pipe name: /home/rugery/.ServiceHub/8a54962f16/bf0eed14ce, Supported Version: 
+05/27/2025 18:20:51 hora estándar de Colombia : Information : hubHostClr write: Content-Length: 82
+
+{"jsonrpc":"2.0","id":3,"result":"/home/rugery/.ServiceHub/8a54962f16/bf0eed14ce"}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : CLR host received start request for service 'vs-intellicode-base-models'
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Loading service module assembly '/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64/Microsoft.VisualStudio.IntelliCode.CSharp.BaseModelService.dll' from '/home/rugery/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64'
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Starting service module 'vs-intellicode-base-models'. Class: Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory, Supported Version: 
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Started service 'vs-intellicode-base-models'. Pipe name: /home/rugery/.ServiceHub/8a54962f16/640dab6865, Supported Version: 
+05/27/2025 18:20:51 hora estándar de Colombia : Information : hubHostClr write: Content-Length: 82
+
+{"jsonrpc":"2.0","id":4,"result":"/home/rugery/.ServiceHub/8a54962f16/640dab6865"}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.TestWindow.VSCode.Service'
+05/27/2025 18:20:51 hora estándar de Colombia : Information : A new client connected to CLR service module 'vs-intellicode-base-models'
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Found FactoryVersion=Version2 for service : vs-intellicode-base-models.
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Service 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.TestWindow.VSCode.Service.
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+05/27/2025 18:20:51 hora estándar de Colombia : Information : hubHostClr write: Content-Length: 110
+
+{"jsonrpc":"2.0","method":"HostServicesStartedAsync","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Creating service Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Creating service Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' from factory
+05/27/2025 18:20:51 hora estándar de Colombia : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' from factory
+05/27/2025 18:20:52 hora estándar de Colombia : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' from factory
+05/27/2025 18:20:52 hora estándar de Colombia : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' from factory
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Checking if 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Checking if 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements System.IAsyncDisposable.
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Checking if 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements System.IDisposable.
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements System.IAsyncDisposable.
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements System.IDisposable.
+05/27/2025 18:21:01 hora estándar de Colombia : Information : hubHostClr write: Content-Length: 108
+
+{"jsonrpc":"2.0","method":"HostServicesEndedAsync","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+05/27/2025 18:21:01 hora estándar de Colombia : Information : hubHostClr read: Content-Length: 57
+
+{"jsonrpc":"2.0","id":5,"method":"ExitAsync","params":[]}
+05/27/2025 18:21:01 hora estándar de Colombia : Information : Exit command received. Exiting CLR host
+05/27/2025 18:21:01 hora estándar de Colombia : Information : hubHostClr write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":5,"result":null}
+05/27/2025 18:21:01 hora estándar de Colombia : Information : hubHostClr JSON RPC has been disposed
+05/27/2025 18:21:01 hora estándar de Colombia : Information : hubHostClr read: end of stream

@@ -1,0 +1,74 @@
+2025-05-30 23:02:35.651 [info] Started local extension host with pid 133890.
+2025-05-30 23:02:37.632 [info] ComputeTargetPlatform: linux-x64
+2025-05-30 23:02:37.734 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-30 23:02:38.957 [info] Started local extension host with pid 133949.
+2025-05-30 23:02:41.053 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-30 23:02:41.442 [error] [Extension Host] (node:133890) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-30 23:02:41.501 [info] Auto updating outdated extensions. github.copilot
+2025-05-30 23:02:42.001 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:02:43.163 [info] [perf] Render performance baseline is 73ms
+2025-05-30 23:02:44.176 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:02:44.967 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:02:47.792 [info] Extension host (LocalProcess pid: 133890) is unresponsive.
+2025-05-30 23:02:50.024 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-30 23:02:50.405 [info] Extension host (LocalProcess pid: 133890) is responsive.
+2025-05-30 23:02:50.406 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-30 23:02:50.733 [warning] UNRESPONSIVE extension host: 'github.copilot-chat' took 56.570282676470434% of 216.654ms, saved PROFILE here: 'file:///tmp/exthost-9f2f27.cpuprofile'
+2025-05-30 23:02:54.584 [info] Started local extension host with pid 134131.
+2025-05-30 23:02:54.585 [info] Started local extension host with pid 134132.
+2025-05-30 23:02:54.963 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-30 23:02:54.975 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-30 23:02:56.101 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:02:57.989 [error] [Extension Host] (node:134131) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-30 23:03:00.205 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:03:06.367 [info] Started local extension host with pid 134297.
+2025-05-30 23:03:06.370 [info] Started local extension host with pid 134298.
+2025-05-30 23:03:06.632 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:03:06.713 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-30 23:03:06.713 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-30 23:03:07.748 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-30 23:03:08.827 [error] [Extension Host] (node:134297) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-30 23:03:09.037 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

@@ -1,0 +1,13 @@
+2025-05-27 17:52:30.196 [info] Using the Electron fetcher.
+2025-05-27 17:52:30.196 [info] Initializing Git extension service.
+2025-05-27 17:52:30.196 [info] Successfully activated the vscode.git extension.
+2025-05-27 17:52:30.196 [info] Enablement state of the vscode.git extension: true.
+2025-05-27 17:52:30.196 [info] Successfully registered Git commit message provider.
+2025-05-27 17:52:31.618 [info] Logged in as Rugery
+2025-05-27 17:52:32.663 [info] Got Copilot token for Rugery
+2025-05-27 17:52:32.942 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-27 17:52:32.942 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-27 17:52:32.977 [info] Registering default platform agent...
+2025-05-27 17:52:33.005 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-27 17:52:33.089 [info] Fetched model metadata in 401ms 2400885e-c67f-4404-9318-bc89ec00d176
+2025-05-27 17:52:33.181 [info] activationBlocker from 'languageModelAccess' took for 2067ms

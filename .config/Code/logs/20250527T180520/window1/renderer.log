@@ -1,0 +1,77 @@
+2025-05-27 18:05:21.519 [info] Started local extension host with pid 164296.
+2025-05-27 18:05:21.961 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 18:05:22.721 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2025-05-27 18:05:22.781 [info] Placing extension(s) asvetliakov.vscode-neovim on a separate extension host.
+2025-05-27 18:05:23.512 [info] Started local extension host with pid 164347.
+2025-05-27 18:05:24.763 [error] [Extension Host] (node:164296) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 18:05:26.029 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 18:05:27.068 [info] [perf] Render performance baseline is 147ms
+2025-05-27 18:05:29.719 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-27 18:05:38.330 [info] Extension host (LocalProcess pid: 164296) is unresponsive.
+2025-05-27 18:05:39.795 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-27 18:05:40.258 [info] Extension host (LocalProcess pid: 164296) is responsive.
+2025-05-27 18:05:40.258 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-27 18:05:41.615 [warning] UNRESPONSIVE extension host: 'github.copilot' took 88.71794212659486% of 414.146ms, saved PROFILE here: 'file:///tmp/exthost-9944b5.cpuprofile'
+2025-05-27 18:05:56.342 [info] Started local extension host with pid 165122.
+2025-05-27 18:05:56.349 [info] Started local extension host with pid 165123.
+2025-05-27 18:05:56.571 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 18:05:56.573 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 18:05:58.156 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2025-05-27 18:05:58.370 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 18:05:58.370 [error] Canceled: Canceled
+    at new OQs (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:35744)
+    at V0t.U (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40391)
+    at n.<computed>.r.charCodeAt.n.<computed> (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37880)
+    at eSs.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:67516)
+    at aqe.getSessions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1309:66226)
+    at UGe.Ib (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:28434)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26855
+    at Array.map (<anonymous>)
+    at UGe.Db (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26843)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1737:26750
+2025-05-27 18:05:58.956 [error] [Extension Host] (node:165122) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-27 18:06:02.945 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:06:05.018 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-27 18:06:05.335 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-05-27 18:06:05.336 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-05-27 18:06:05.375 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-05-27 18:06:05.377 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-05-27 18:06:08.639 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:06:16.951 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:06:36.394 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:07:14.456 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-05-27 18:07:19.547 [error] [Extension Host] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///opt/visual-studio-code/resources/app/out/bootstrap-fork.js:3:11860)
+    at process.emit (node:events:524:28)

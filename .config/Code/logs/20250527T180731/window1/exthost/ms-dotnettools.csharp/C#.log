@@ -1,0 +1,10 @@
+2025-05-27 18:07:38.750 [info] Locating .NET runtime version 9.0.1
+2025-05-27 18:07:41.259 [info] Did not find .NET 9.0.1 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+2025-05-27 18:07:42.104 [info] Dotnet path: /home/rugery/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.5~x64~aspnetcore/dotnet
+2025-05-27 18:07:42.105 [info] Activating C# + C# Dev Kit + C# IntelliCode...
+2025-05-27 18:07:43.350 [info] [stdout] {"pipeName":"/tmp/f7f8acd8.sock"}
+
+2025-05-27 18:07:43.350 [info] received named pipe information from server
+2025-05-27 18:07:43.350 [info] client has connected to server
+2025-05-27 18:07:43.673 [info] [Info  - 6:07:43 p. m.] [Program] Language server initialized
+2025-05-27 18:07:54.652 [info] [Info  - 6:07:54 p. m.] [serviceBroker/connect] [WorkspaceProjectFactoryService] Project /home/rugery/Proyects/TestDotnet/TestDotnet.csproj loaded by C# Dev Kit

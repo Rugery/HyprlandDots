@@ -1,0 +1,5 @@
+2025-05-27 17:47:21.562 [info] update#setState idle
+2025-05-27 17:47:51.542 [info] update#setState checking for updates
+2025-05-27 17:47:51.670 [info] update#setState idle
+2025-05-27 17:52:19.381 [info] Extension host with pid 149163 exited with code: 0, signal: unknown.
+2025-05-27 17:52:19.595 [info] Extension host with pid 149110 exited with code: 0, signal: unknown.

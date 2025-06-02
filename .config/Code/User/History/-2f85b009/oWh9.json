@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Wal",
+    "workbench.activityBar.location": "bottom",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Cascadia Code', 'monospace', monospace",
+    "editor.tabSize": 1,
+    "editor.wordWrap": "on",
+    "dotnetAcquisitionExtension.enableTelemetry": false,
+    "editor.fontLigatures": true,
+    "workbench.sideBar.location": "right",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "window.commandCenter": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "vscode-neovim.neovimInitVimPaths.linux": "/usr/bin/nvim"
+}

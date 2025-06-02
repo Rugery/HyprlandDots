@@ -1,0 +1,16 @@
+2025-05-27 17:52:22.920 [info] Added views:workbench.panel.chat.view.copilot in workbench.panel.chat
+2025-05-27 17:52:22.920 [info] Added views:outline in workbench.view.explorer
+2025-05-27 17:52:22.920 [info] Added views:workbench.view.search in workbench.view.search
+2025-05-27 17:52:22.920 [info] Added views:workbench.scm in workbench.view.scm
+2025-05-27 17:52:22.920 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-05-27 17:52:22.920 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-05-27 17:52:22.920 [info] Added views:terminal in terminal
+2025-05-27 17:52:22.920 [info] Added views:timeline in workbench.view.explorer
+2025-05-27 17:52:22.920 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-05-27 17:52:23.760 [info] Added views:nuget.gallery.view in workbench.view.extension.nugetGalleryView
+2025-05-27 17:52:24.193 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-05-27 17:52:24.294 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-05-27 17:52:27.647 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2025-05-27 17:52:28.312 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2025-05-27 17:52:35.813 [info] Added views:solutionExplorer in workbench.view.explorer
+2025-05-27 17:55:51.233 [info] Removed views:workbench.view.testing from workbench.view.extension.test
